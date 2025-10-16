@@ -10386,5 +10386,21 @@
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/API/Element/ariaNotify"
     }
+  ],
+  "caret-shape": [
+    {
+      "slug": "Web/CSS/caret-shape",
+      "title": "caret-shape",
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/caret-shape"
+    }
+  ],
+  "queuemicrotask": [
+    {
+      "slug": "Web/API/Window/queueMicrotask",
+      "title": "Window: queueMicrotask() method",
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/API/Window/queueMicrotask"
+    }
   ]
 }
