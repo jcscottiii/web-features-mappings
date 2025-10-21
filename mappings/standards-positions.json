@@ -125,10 +125,7 @@
     {
       "vendor": "webkit",
       "url": "https://github.com/WebKit/standards-positions/issues/180",
-      "concerns": [
-        "interoperability",
-        "venue"
-      ],
+      "concerns": [],
       "position": ""
     }
   ],
@@ -1719,12 +1716,7 @@
     {
       "vendor": "webkit",
       "url": "https://github.com/WebKit/standards-positions/issues/10",
-      "concerns": [
-        "complexity",
-        "interoperability",
-        "privacy",
-        "dependencies"
-      ],
+      "concerns": [],
       "position": ""
     }
   ],
