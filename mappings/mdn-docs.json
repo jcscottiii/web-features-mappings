@@ -10424,5 +10424,13 @@
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/API/IDBObjectStore/getAllRecords"
     }
+  ],
+  "interactivity": [
+    {
+      "slug": "Web/CSS/interactivity",
+      "title": "interactivity",
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/interactivity"
+    }
   ]
 }
