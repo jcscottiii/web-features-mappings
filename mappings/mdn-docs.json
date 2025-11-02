@@ -63,8 +63,8 @@
     {
       "slug": "Web/CSS/Reference/Properties/position",
       "title": "position",
-      "anchor": "absolute",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/position#absolute"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position"
     }
   ],
   "accelerometer": [
@@ -80,7 +80,7 @@
       "slug": "Web/CSS/Reference/Properties/accent-color",
       "title": "accent-color",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/accent-color"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/accent-color"
     }
   ],
   "accesskey": [
@@ -150,7 +150,7 @@
       "slug": "Web/CSS/Reference/Properties/align-content",
       "title": "align-content",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/align-content"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/align-content"
     }
   ],
   "alignment-baseline": [
@@ -166,15 +166,15 @@
       "slug": "Web/CSS/Reference/Properties/all",
       "title": "all",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/all"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/all"
     }
   ],
   "alt-text-generated-content": [
     {
       "slug": "Web/CSS/Reference/Properties/content",
       "title": "content",
-      "anchor": "alternative_text",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/content#alternative_text"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/content"
     }
   ],
   "alternative-style-sheets": [
@@ -214,7 +214,7 @@
       "slug": "Web/CSS/Reference/Properties/animation-composition",
       "title": "animation-composition",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/animation-composition"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation-composition"
     }
   ],
   "animations-css": [
@@ -222,7 +222,7 @@
       "slug": "Web/CSS/Reference/Properties/animation",
       "title": "animation",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/animation"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/animation"
     }
   ],
   "app-file-handlers": [
@@ -270,7 +270,7 @@
       "slug": "Web/CSS/Reference/Properties/appearance",
       "title": "appearance",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/appearance"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/appearance"
     }
   ],
   "arguments-callee": [
@@ -512,7 +512,7 @@
       "slug": "Web/CSS/Reference/Properties/aspect-ratio",
       "title": "aspect-ratio",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/aspect-ratio"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/aspect-ratio"
     }
   ],
   "async-await": [
@@ -694,7 +694,7 @@
       "slug": "Web/CSS/Reference/Properties/backdrop-filter",
       "title": "backdrop-filter",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/backdrop-filter"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/backdrop-filter"
     }
   ],
   "background": [
@@ -702,7 +702,7 @@
       "slug": "Web/CSS/Reference/Properties/background",
       "title": "background",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background"
     }
   ],
   "background-attachment": [
@@ -710,7 +710,7 @@
       "slug": "Web/CSS/Reference/Properties/background-attachment",
       "title": "background-attachment",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-attachment"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-attachment"
     }
   ],
   "background-blend-mode": [
@@ -718,7 +718,7 @@
       "slug": "Web/CSS/Reference/Properties/background-blend-mode",
       "title": "background-blend-mode",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-blend-mode"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-blend-mode"
     }
   ],
   "background-clip": [
@@ -726,23 +726,23 @@
       "slug": "Web/CSS/Reference/Properties/background-clip",
       "title": "background-clip",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-clip"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-clip"
     }
   ],
   "background-clip-border-area": [
     {
       "slug": "Web/CSS/Reference/Properties/background-clip",
       "title": "background-clip",
-      "anchor": "border-area",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-clip#border-area"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-clip"
     }
   ],
   "background-clip-text": [
     {
       "slug": "Web/CSS/Reference/Properties/background-clip",
       "title": "background-clip",
-      "anchor": "text",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-clip#text"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-clip"
     }
   ],
   "background-color": [
@@ -750,7 +750,7 @@
       "slug": "Web/CSS/Reference/Properties/background-color",
       "title": "background-color",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-color"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-color"
     }
   ],
   "background-fetch": [
@@ -766,7 +766,7 @@
       "slug": "Web/CSS/Reference/Properties/background-image",
       "title": "background-image",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-image"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-image"
     }
   ],
   "background-origin": [
@@ -774,7 +774,7 @@
       "slug": "Web/CSS/Reference/Properties/background-origin",
       "title": "background-origin",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-origin"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-origin"
     }
   ],
   "background-position": [
@@ -782,7 +782,7 @@
       "slug": "Web/CSS/Reference/Properties/background-position",
       "title": "background-position",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-position"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-position"
     }
   ],
   "background-repeat": [
@@ -790,7 +790,7 @@
       "slug": "Web/CSS/Reference/Properties/background-repeat",
       "title": "background-repeat",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-repeat"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-repeat"
     }
   ],
   "background-size": [
@@ -798,7 +798,7 @@
       "slug": "Web/CSS/Reference/Properties/background-size",
       "title": "background-size",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/background-size"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/background-size"
     }
   ],
   "background-sync": [
@@ -994,7 +994,7 @@
       "slug": "Web/CSS/Reference/Properties/border-image",
       "title": "border-image",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/border-image"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-image"
     }
   ],
   "border-radius": [
@@ -1002,7 +1002,7 @@
       "slug": "Web/CSS/Reference/Properties/border-radius",
       "title": "border-radius",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/border-radius"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border-radius"
     }
   ],
   "borders": [
@@ -1010,7 +1010,7 @@
       "slug": "Web/CSS/Reference/Properties/border",
       "title": "border",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/border"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/border"
     }
   ],
   "box-decoration-break": [
@@ -1018,7 +1018,7 @@
       "slug": "Web/CSS/Reference/Properties/box-decoration-break",
       "title": "box-decoration-break",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/box-decoration-break"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/box-decoration-break"
     }
   ],
   "box-shadow": [
@@ -1026,7 +1026,7 @@
       "slug": "Web/CSS/Reference/Properties/box-shadow",
       "title": "box-shadow",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/box-shadow"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/box-shadow"
     }
   ],
   "box-sizing": [
@@ -1034,7 +1034,7 @@
       "slug": "Web/CSS/Reference/Properties/box-sizing",
       "title": "box-sizing",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/box-sizing"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/box-sizing"
     }
   ],
   "br": [
@@ -1214,7 +1214,7 @@
       "slug": "Web/CSS/Reference/Properties/caret-color",
       "title": "caret-color",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/caret-color"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/caret-color"
     }
   ],
   "cascade-layers": [
@@ -1310,7 +1310,7 @@
       "slug": "Web/CSS/Reference/Properties/clip",
       "title": "clip",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/clip"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/clip"
     }
   ],
   "clip-path": [
@@ -1318,7 +1318,7 @@
       "slug": "Web/CSS/Reference/Properties/clip-path",
       "title": "clip-path",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/clip-path"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/clip-path"
     },
     {
       "slug": "Web/SVG/Reference/Attribute/clip-path",
@@ -1332,15 +1332,15 @@
       "slug": "Web/CSS/Reference/Properties/clip-path",
       "title": "clip-path",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/clip-path"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/clip-path"
     }
   ],
   "clip-path-boxes": [
     {
       "slug": "Web/CSS/Reference/Properties/clip-path",
       "title": "clip-path",
-      "anchor": "geometry-box",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/clip-path#geometry-box"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/clip-path"
     }
   ],
   "clipboard-custom-format": [
@@ -1422,7 +1422,7 @@
       "slug": "Web/CSS/Reference/Properties/color",
       "title": "color",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/color"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/color"
     }
   ],
   "color-adjust": [
@@ -1430,7 +1430,7 @@
       "slug": "Web/CSS/Reference/Properties/print-color-adjust",
       "title": "print-color-adjust",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/print-color-adjust"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/print-color-adjust"
     }
   ],
   "color-function": [
@@ -1462,7 +1462,7 @@
       "slug": "Web/CSS/Reference/Properties/color-scheme",
       "title": "color-scheme",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/color-scheme"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/color-scheme"
     }
   ],
   "colrv0": [
@@ -1486,19 +1486,19 @@
       "slug": "Web/CSS/Reference/Properties/break-after",
       "title": "break-after",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/break-after"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/break-after"
     },
     {
       "slug": "Web/CSS/Reference/Properties/break-before",
       "title": "break-before",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/break-before"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/break-before"
     },
     {
       "slug": "Web/CSS/Reference/Properties/break-inside",
       "title": "break-inside",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/break-inside"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/break-inside"
     }
   ],
   "column-fill": [
@@ -1506,7 +1506,7 @@
       "slug": "Web/CSS/Reference/Properties/column-fill",
       "title": "column-fill",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/column-fill"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-fill"
     }
   ],
   "column-span": [
@@ -1514,7 +1514,7 @@
       "slug": "Web/CSS/Reference/Properties/column-span",
       "title": "column-span",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/column-span"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/column-span"
     }
   ],
   "composed-ranges": [
@@ -1620,15 +1620,15 @@
       "slug": "Web/CSS/Reference/Properties/contain",
       "title": "contain",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/contain"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain"
     }
   ],
   "contain-inline-size": [
     {
       "slug": "Web/CSS/Reference/Properties/contain",
       "title": "contain",
-      "anchor": "inline-size",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/contain#inline-size"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain"
     }
   ],
   "contain-intrinsic-size": [
@@ -1636,23 +1636,23 @@
       "slug": "Web/CSS/Reference/Properties/contain-intrinsic-size",
       "title": "contain-intrinsic-size",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/contain-intrinsic-size"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain-intrinsic-size"
     }
   ],
   "contain-layout": [
     {
       "slug": "Web/CSS/Reference/Properties/contain",
       "title": "contain",
-      "anchor": "layout",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/contain#layout"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain"
     }
   ],
   "contain-paint": [
     {
       "slug": "Web/CSS/Reference/Properties/contain",
       "title": "contain",
-      "anchor": "paint",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/contain#paint"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain"
     }
   ],
   "contain-size": [
@@ -1660,15 +1660,15 @@
       "slug": "Web/CSS/Reference/Properties/contain",
       "title": "contain",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/contain"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain"
     }
   ],
   "contain-style": [
     {
       "slug": "Web/CSS/Reference/Properties/contain",
       "title": "contain",
-      "anchor": "style",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/contain#style"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/contain"
     }
   ],
   "container-queries": [
@@ -1700,7 +1700,7 @@
       "slug": "Web/CSS/Reference/Properties/content",
       "title": "content",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/content"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/content"
     }
   ],
   "content-index": [
@@ -1716,7 +1716,7 @@
       "slug": "Web/CSS/Reference/Properties/content-visibility",
       "title": "content-visibility",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/content-visibility"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/content-visibility"
     }
   ],
   "contenteditable": [
@@ -1807,8 +1807,8 @@
     {
       "slug": "Web/CSS/Reference/Properties/counter-reset",
       "title": "counter-reset",
-      "anchor": "reversed_counters",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/counter-reset#reversed_counters"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/counter-reset"
     }
   ],
   "counter-set": [
@@ -1816,7 +1816,7 @@
       "slug": "Web/CSS/Reference/Properties/counter-set",
       "title": "counter-set",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/counter-set"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/counter-set"
     }
   ],
   "counter-style": [
@@ -1832,13 +1832,13 @@
       "slug": "Web/CSS/Reference/Properties/counter-reset",
       "title": "counter-reset",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/counter-reset"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/counter-reset"
     },
     {
       "slug": "Web/CSS/Reference/Properties/counter-increment",
       "title": "counter-increment",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/counter-increment"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/counter-increment"
     }
   ],
   "createimagebitmap": [
@@ -1861,8 +1861,8 @@
     {
       "slug": "Web/CSS/Reference/Properties/image-rendering",
       "title": "image-rendering",
-      "anchor": "crisp-edges",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/image-rendering#crisp-edges"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/image-rendering"
     }
   ],
   "cross-document-view-transitions": [
@@ -1970,15 +1970,15 @@
       "slug": "Web/CSS/Reference/Properties/cursor",
       "title": "cursor",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/cursor"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/cursor"
     }
   ],
   "custom-ellipses": [
     {
       "slug": "Web/CSS/Reference/Properties/text-overflow",
       "title": "text-overflow",
-      "anchor": "string",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-overflow#string"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-overflow"
     }
   ],
   "custom-properties": [
@@ -1986,7 +1986,7 @@
       "slug": "Web/CSS/Reference/Properties/--*",
       "title": "Custom properties (--*): CSS variables",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/--*"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/--*"
     }
   ],
   "customizable-select": [
@@ -2240,37 +2240,37 @@
       "slug": "Web/CSS/Reference/Properties/display",
       "title": "display",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/display"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/display"
     }
   ],
   "display-animation": [
     {
       "slug": "Web/CSS/Reference/Properties/display",
       "title": "display",
-      "anchor": "animating_display",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/display#animating_display"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/display"
     },
     {
       "slug": "Web/CSS/Reference/Properties/content-visibility",
       "title": "content-visibility",
-      "anchor": "animating_and_transitioning_content-visibility",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/content-visibility#animating_and_transitioning_content-visibility"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/content-visibility"
     }
   ],
   "display-contents": [
     {
       "slug": "Web/CSS/Reference/Properties/display",
       "title": "display",
-      "anchor": "contents",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/display#contents"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/display"
     }
   ],
   "display-flow-root": [
     {
       "slug": "Web/CSS/Reference/Properties/display",
       "title": "display",
-      "anchor": "flow-root",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/display#flow-root"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/display"
     }
   ],
   "display-list-item": [
@@ -2293,16 +2293,16 @@
     {
       "slug": "Web/CSS/Reference/Properties/display",
       "title": "display",
-      "anchor": "ruby",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/display#ruby"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/display"
     }
   ],
   "display-table": [
     {
       "slug": "Web/CSS/Reference/Properties/display",
       "title": "display",
-      "anchor": "table",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/display#table"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/display"
     }
   ],
   "div": [
@@ -2408,7 +2408,7 @@
       "slug": "Web/CSS/Reference/Properties/dominant-baseline",
       "title": "dominant-baseline",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/dominant-baseline"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/dominant-baseline"
     }
   ],
   "domparser": [
@@ -2840,7 +2840,7 @@
       "slug": "Web/CSS/Reference/Properties/field-sizing",
       "title": "field-sizing",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/field-sizing"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/field-sizing"
     }
   ],
   "fieldset": [
@@ -2930,7 +2930,7 @@
       "slug": "Web/CSS/Reference/Properties/filter",
       "title": "filter",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/filter"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/filter"
     }
   ],
   "first-letter": [
@@ -2969,8 +2969,8 @@
     {
       "slug": "Web/CSS/Reference/Properties/position",
       "title": "position",
-      "anchor": "fixed",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/position#fixed"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position"
     }
   ],
   "flexbox": [
@@ -2986,7 +2986,7 @@
       "slug": "Web/CSS/Reference/Properties/gap",
       "title": "gap",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/gap"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/gap"
     }
   ],
   "float-clear": [
@@ -2994,13 +2994,13 @@
       "slug": "Web/CSS/Reference/Properties/float",
       "title": "float",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/float"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/float"
     },
     {
       "slug": "Web/CSS/Reference/Properties/clear",
       "title": "clear",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/clear"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/clear"
     }
   ],
   "float16array": [
@@ -3074,31 +3074,31 @@
       "slug": "Web/CSS/Reference/Properties/font-family",
       "title": "font-family",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-family"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-family"
     }
   ],
   "font-family-math": [
     {
       "slug": "Web/CSS/Reference/Properties/font-family",
       "title": "font-family",
-      "anchor": "math",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-family#math"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-family"
     }
   ],
   "font-family-system": [
     {
       "slug": "Web/CSS/Reference/Properties/font-family",
       "title": "font-family",
-      "anchor": "system-ui",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-family#system-ui"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-family"
     }
   ],
   "font-family-ui": [
     {
       "slug": "Web/CSS/Reference/Properties/font-family",
       "title": "font-family",
-      "anchor": "generic-name",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-family#generic-name"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-family"
     }
   ],
   "font-feature-settings": [
@@ -3106,7 +3106,7 @@
       "slug": "Web/CSS/Reference/Properties/font-feature-settings",
       "title": "font-feature-settings",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-feature-settings"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-feature-settings"
     }
   ],
   "font-kerning": [
@@ -3114,7 +3114,7 @@
       "slug": "Web/CSS/Reference/Properties/font-kerning",
       "title": "font-kerning",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-kerning"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-kerning"
     }
   ],
   "font-language-override": [
@@ -3122,7 +3122,7 @@
       "slug": "Web/CSS/Reference/Properties/font-language-override",
       "title": "font-language-override",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-language-override"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-language-override"
     }
   ],
   "font-loading": [
@@ -3146,7 +3146,7 @@
       "slug": "Web/CSS/Reference/Properties/font-optical-sizing",
       "title": "font-optical-sizing",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-optical-sizing"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-optical-sizing"
     }
   ],
   "font-palette": [
@@ -3154,7 +3154,7 @@
       "slug": "Web/CSS/Reference/Properties/font-palette",
       "title": "font-palette",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-palette"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-palette"
     }
   ],
   "font-palette-animation": [
@@ -3162,7 +3162,7 @@
       "slug": "Web/CSS/Reference/Properties/font-palette/palette-mix",
       "title": "palette-mix()",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-palette/palette-mix"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-palette/palette-mix"
     }
   ],
   "font-shorthand": [
@@ -3170,7 +3170,7 @@
       "slug": "Web/CSS/Reference/Properties/font",
       "title": "font",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font"
     }
   ],
   "font-size": [
@@ -3178,7 +3178,7 @@
       "slug": "Web/CSS/Reference/Properties/font-size",
       "title": "font-size",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-size"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-size"
     }
   ],
   "font-size-adjust": [
@@ -3186,7 +3186,7 @@
       "slug": "Web/CSS/Reference/Properties/font-size-adjust",
       "title": "font-size-adjust",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-size-adjust"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-size-adjust"
     }
   ],
   "font-stretch": [
@@ -3194,7 +3194,7 @@
       "slug": "Web/CSS/Reference/Properties/font-stretch",
       "title": "font-stretch",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-stretch"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-stretch"
     }
   ],
   "font-style": [
@@ -3202,7 +3202,7 @@
       "slug": "Web/CSS/Reference/Properties/font-style",
       "title": "font-style",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-style"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-style"
     }
   ],
   "font-synthesis": [
@@ -3210,7 +3210,7 @@
       "slug": "Web/CSS/Reference/Properties/font-synthesis",
       "title": "font-synthesis",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-synthesis"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-synthesis"
     }
   ],
   "font-synthesis-position": [
@@ -3218,7 +3218,7 @@
       "slug": "Web/CSS/Reference/Properties/font-synthesis-position",
       "title": "font-synthesis-position",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-synthesis-position"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-synthesis-position"
     }
   ],
   "font-synthesis-small-caps": [
@@ -3226,7 +3226,7 @@
       "slug": "Web/CSS/Reference/Properties/font-synthesis-small-caps",
       "title": "font-synthesis-small-caps",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-synthesis-small-caps"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-synthesis-small-caps"
     }
   ],
   "font-synthesis-style": [
@@ -3234,7 +3234,7 @@
       "slug": "Web/CSS/Reference/Properties/font-synthesis-style",
       "title": "font-synthesis-style",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-synthesis-style"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-synthesis-style"
     }
   ],
   "font-synthesis-weight": [
@@ -3242,7 +3242,7 @@
       "slug": "Web/CSS/Reference/Properties/font-synthesis-weight",
       "title": "font-synthesis-weight",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-synthesis-weight"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-synthesis-weight"
     }
   ],
   "font-variant": [
@@ -3250,7 +3250,7 @@
       "slug": "Web/CSS/Reference/Properties/font-variant",
       "title": "font-variant",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-variant"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant"
     }
   ],
   "font-variant-alternates": [
@@ -3258,7 +3258,7 @@
       "slug": "Web/CSS/Reference/Properties/font-variant-alternates",
       "title": "font-variant-alternates",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-variant-alternates"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-alternates"
     },
     {
       "slug": "Web/CSS/@font-feature-values",
@@ -3272,7 +3272,7 @@
       "slug": "Web/CSS/Reference/Properties/font-variant-caps",
       "title": "font-variant-caps",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-variant-caps"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-caps"
     }
   ],
   "font-variant-east-asian": [
@@ -3280,7 +3280,7 @@
       "slug": "Web/CSS/Reference/Properties/font-variant-east-asian",
       "title": "font-variant-east-asian",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-variant-east-asian"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-east-asian"
     }
   ],
   "font-variant-emoji": [
@@ -3288,7 +3288,7 @@
       "slug": "Web/CSS/Reference/Properties/font-variant-emoji",
       "title": "font-variant-emoji",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-variant-emoji"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-emoji"
     }
   ],
   "font-variant-ligatures": [
@@ -3296,7 +3296,7 @@
       "slug": "Web/CSS/Reference/Properties/font-variant-ligatures",
       "title": "font-variant-ligatures",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-variant-ligatures"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-ligatures"
     }
   ],
   "font-variant-numeric": [
@@ -3304,7 +3304,7 @@
       "slug": "Web/CSS/Reference/Properties/font-variant-numeric",
       "title": "font-variant-numeric",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-variant-numeric"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-numeric"
     }
   ],
   "font-variant-position": [
@@ -3312,7 +3312,7 @@
       "slug": "Web/CSS/Reference/Properties/font-variant-position",
       "title": "font-variant-position",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-variant-position"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variant-position"
     }
   ],
   "font-variation-settings": [
@@ -3320,7 +3320,7 @@
       "slug": "Web/CSS/Reference/Properties/font-variation-settings",
       "title": "font-variation-settings",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-variation-settings"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-variation-settings"
     }
   ],
   "font-weight": [
@@ -3328,7 +3328,7 @@
       "slug": "Web/CSS/Reference/Properties/font-weight",
       "title": "font-weight",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/font-weight"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/font-weight"
     }
   ],
   "forced-colors": [
@@ -3342,7 +3342,7 @@
       "slug": "Web/CSS/Reference/Properties/forced-color-adjust",
       "title": "forced-color-adjust",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/forced-color-adjust"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/forced-color-adjust"
     }
   ],
   "form": [
@@ -3576,13 +3576,13 @@
       "slug": "Web/CSS/Reference/Properties/grid-template-columns",
       "title": "grid-template-columns",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/grid-template-columns"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/grid-template-columns"
     },
     {
       "slug": "Web/CSS/Reference/Properties/grid-template-rows",
       "title": "grid-template-rows",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/grid-template-rows"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/grid-template-rows"
     }
   ],
   "gyroscope": [
@@ -3598,7 +3598,7 @@
       "slug": "Web/CSS/Reference/Properties/hanging-punctuation",
       "title": "hanging-punctuation",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/hanging-punctuation"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/hanging-punctuation"
     }
   ],
   "hardware-concurrency": [
@@ -3902,7 +3902,7 @@
       "slug": "Web/CSS/Reference/Properties/hyphenate-character",
       "title": "hyphenate-character",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/hyphenate-character"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/hyphenate-character"
     }
   ],
   "hyphenate-limit-chars": [
@@ -3910,7 +3910,7 @@
       "slug": "Web/CSS/Reference/Properties/hyphenate-limit-chars",
       "title": "hyphenate-limit-chars",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/hyphenate-limit-chars"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/hyphenate-limit-chars"
     }
   ],
   "hyphens": [
@@ -3918,7 +3918,7 @@
       "slug": "Web/CSS/Reference/Properties/hyphens",
       "title": "hyphens",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/hyphens"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/hyphens"
     }
   ],
   "i": [
@@ -4004,7 +4004,7 @@
       "slug": "Web/CSS/Reference/Properties/image-orientation",
       "title": "image-orientation",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/image-orientation"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/image-orientation"
     }
   ],
   "image-rendering": [
@@ -4012,7 +4012,7 @@
       "slug": "Web/CSS/Reference/Properties/image-rendering",
       "title": "image-rendering",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/image-rendering"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/image-rendering"
     }
   ],
   "image-set": [
@@ -4112,7 +4112,7 @@
       "slug": "Web/CSS/Reference/Properties/initial-letter",
       "title": "initial-letter",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/initial-letter"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/initial-letter"
     }
   ],
   "initial-value": [
@@ -4334,7 +4334,7 @@
       "slug": "Web/CSS/Reference/Properties/interpolate-size",
       "title": "interpolate-size",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/interpolate-size"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/interpolate-size"
     }
   ],
   "intersection-observer": [
@@ -4470,7 +4470,7 @@
       "slug": "Web/CSS/Reference/Properties/isolation",
       "title": "isolation",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/isolation"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/isolation"
     }
   ],
   "iterator-methods": [
@@ -4688,13 +4688,13 @@
       "slug": "Web/CSS/Reference/Properties/unicode-bidi",
       "title": "unicode-bidi",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/unicode-bidi"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/unicode-bidi"
     },
     {
       "slug": "Web/CSS/Reference/Properties/direction",
       "title": "direction",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/direction"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/direction"
     }
   ],
   "layout-instability": [
@@ -4724,7 +4724,7 @@
       "slug": "Web/CSS/Reference/Properties/letter-spacing",
       "title": "letter-spacing",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/letter-spacing"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/letter-spacing"
     }
   ],
   "lh": [
@@ -4748,7 +4748,7 @@
       "slug": "Web/CSS/Reference/Properties/line-break",
       "title": "line-break",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/line-break"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/line-break"
     }
   ],
   "line-clamp": [
@@ -4756,7 +4756,7 @@
       "slug": "Web/CSS/Reference/Properties/line-clamp",
       "title": "line-clamp",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/line-clamp"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/line-clamp"
     }
   ],
   "line-height": [
@@ -4764,7 +4764,7 @@
       "slug": "Web/CSS/Reference/Properties/line-height",
       "title": "line-height",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/line-height"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/line-height"
     }
   ],
   "linear-easing": [
@@ -4868,7 +4868,7 @@
       "slug": "Web/CSS/Reference/Properties/list-style",
       "title": "list-style",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/list-style"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/list-style"
     }
   ],
   "loading-lazy": [
@@ -4992,7 +4992,7 @@
       "slug": "Web/CSS/Reference/Properties/margin",
       "title": "margin",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/margin"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/margin"
     }
   ],
   "margin-trim": [
@@ -5000,7 +5000,7 @@
       "slug": "Web/CSS/Reference/Properties/margin-trim",
       "title": "margin-trim",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/margin-trim"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/margin-trim"
     }
   ],
   "mark": [
@@ -5024,7 +5024,7 @@
       "slug": "Web/CSS/Reference/Properties/mask-border",
       "title": "mask-border",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/mask-border"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask-border"
     }
   ],
   "mask-type": [
@@ -5032,7 +5032,7 @@
       "slug": "Web/CSS/Reference/Properties/mask-type",
       "title": "mask-type",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/mask-type"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask-type"
     }
   ],
   "masks": [
@@ -5040,7 +5040,7 @@
       "slug": "Web/CSS/Reference/Properties/mask",
       "title": "mask",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/mask"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mask"
     }
   ],
   "masonry": [
@@ -5262,25 +5262,25 @@
       "slug": "Web/CSS/Reference/Properties/min-width",
       "title": "min-width",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/min-width"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/min-width"
     },
     {
       "slug": "Web/CSS/Reference/Properties/max-width",
       "title": "max-width",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/max-width"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/max-width"
     },
     {
       "slug": "Web/CSS/Reference/Properties/min-height",
       "title": "min-height",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/min-height"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/min-height"
     },
     {
       "slug": "Web/CSS/Reference/Properties/max-height",
       "title": "max-height",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/max-height"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/max-height"
     }
   ],
   "mix-blend-mode": [
@@ -5288,7 +5288,7 @@
       "slug": "Web/CSS/Reference/Properties/mix-blend-mode",
       "title": "mix-blend-mode",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/mix-blend-mode"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/mix-blend-mode"
     }
   ],
   "mixed-content": [
@@ -5320,7 +5320,7 @@
       "slug": "Web/CSS/Reference/Properties/offset",
       "title": "offset",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/offset"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/offset"
     }
   ],
   "mouse-events": [
@@ -5356,7 +5356,7 @@
       "slug": "Web/CSS/Reference/Properties/columns",
       "title": "columns",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/columns"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/columns"
     }
   ],
   "mutation-events": [
@@ -5564,7 +5564,7 @@
       "slug": "Web/CSS/Reference/Properties/object-fit",
       "title": "object-fit",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/object-fit"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/object-fit"
     }
   ],
   "object-object": [
@@ -5580,7 +5580,7 @@
       "slug": "Web/CSS/Reference/Properties/object-position",
       "title": "object-position",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/object-position"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/object-position"
     }
   ],
   "oes-element-index-uint": [
@@ -5690,7 +5690,7 @@
       "slug": "Web/CSS/Reference/Properties/opacity",
       "title": "opacity",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/opacity"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/opacity"
     }
   ],
   "opacity-svg": [
@@ -5744,7 +5744,7 @@
       "slug": "Web/CSS/Reference/Properties/outline",
       "title": "outline",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/outline"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/outline"
     }
   ],
   "outlines": [
@@ -5752,25 +5752,25 @@
       "slug": "Web/CSS/Reference/Properties/outline-color",
       "title": "outline-color",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/outline-color"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/outline-color"
     },
     {
       "slug": "Web/CSS/Reference/Properties/outline-style",
       "title": "outline-style",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/outline-style"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/outline-style"
     },
     {
       "slug": "Web/CSS/Reference/Properties/outline-width",
       "title": "outline-width",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/outline-width"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/outline-width"
     },
     {
       "slug": "Web/CSS/Reference/Properties/outline-offset",
       "title": "outline-offset",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/outline-offset"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/outline-offset"
     }
   ],
   "output": [
@@ -5806,15 +5806,15 @@
       "slug": "Web/CSS/Reference/Properties/overflow-anchor",
       "title": "overflow-anchor",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/overflow-anchor"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-anchor"
     }
   ],
   "overflow-clip": [
     {
       "slug": "Web/CSS/Reference/Properties/overflow",
       "title": "overflow",
-      "anchor": "clip",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/overflow#clip"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow"
     }
   ],
   "overflow-clip-margin": [
@@ -5822,15 +5822,15 @@
       "slug": "Web/CSS/Reference/Properties/overflow-clip-margin",
       "title": "overflow-clip-margin",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/overflow-clip-margin"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-clip-margin"
     }
   ],
   "overflow-overlay": [
     {
       "slug": "Web/CSS/Reference/Properties/overflow",
       "title": "overflow",
-      "anchor": "auto",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/overflow#auto"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow"
     }
   ],
   "overflow-shorthand": [
@@ -5838,7 +5838,7 @@
       "slug": "Web/CSS/Reference/Properties/overflow",
       "title": "overflow",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/overflow"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow"
     }
   ],
   "overflow-wrap": [
@@ -5846,7 +5846,7 @@
       "slug": "Web/CSS/Reference/Properties/overflow-wrap",
       "title": "overflow-wrap",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/overflow-wrap"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overflow-wrap"
     }
   ],
   "overlay": [
@@ -5854,7 +5854,7 @@
       "slug": "Web/CSS/Reference/Properties/overlay",
       "title": "overlay",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/overlay"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overlay"
     }
   ],
   "overscroll-behavior": [
@@ -5862,7 +5862,7 @@
       "slug": "Web/CSS/Reference/Properties/overscroll-behavior",
       "title": "overscroll-behavior",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/overscroll-behavior"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/overscroll-behavior"
     }
   ],
   "ovr-multiview2": [
@@ -5886,7 +5886,7 @@
       "slug": "Web/CSS/Reference/Properties/padding",
       "title": "padding",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/padding"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/padding"
     }
   ],
   "page-break-aliases": [
@@ -5894,19 +5894,19 @@
       "slug": "Web/CSS/Reference/Properties/page-break-before",
       "title": "page-break-before",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/page-break-before"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/page-break-before"
     },
     {
       "slug": "Web/CSS/Reference/Properties/page-break-inside",
       "title": "page-break-inside",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/page-break-inside"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/page-break-inside"
     },
     {
       "slug": "Web/CSS/Reference/Properties/page-break-after",
       "title": "page-break-after",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/page-break-after"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/page-break-after"
     }
   ],
   "page-breaks": [
@@ -5914,19 +5914,19 @@
       "slug": "Web/CSS/Reference/Properties/break-after",
       "title": "break-after",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/break-after"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/break-after"
     },
     {
       "slug": "Web/CSS/Reference/Properties/break-before",
       "title": "break-before",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/break-before"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/break-before"
     },
     {
       "slug": "Web/CSS/Reference/Properties/break-inside",
       "title": "break-inside",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/break-inside"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/break-inside"
     }
   ],
   "page-orientation": [
@@ -6008,7 +6008,7 @@
       "slug": "Web/CSS/Reference/Properties/paint-order",
       "title": "paint-order",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/paint-order"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/paint-order"
     }
   ],
   "paint-timing": [
@@ -6110,25 +6110,25 @@
       "slug": "Web/CSS/Reference/Properties/top",
       "title": "top",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/top"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/top"
     },
     {
       "slug": "Web/CSS/Reference/Properties/right",
       "title": "right",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/right"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/right"
     },
     {
       "slug": "Web/CSS/Reference/Properties/bottom",
       "title": "bottom",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/bottom"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/bottom"
     },
     {
       "slug": "Web/CSS/Reference/Properties/left",
       "title": "left",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/left"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/left"
     }
   ],
   "picture": [
@@ -6176,7 +6176,7 @@
       "slug": "Web/CSS/Reference/Properties/pointer-events",
       "title": "pointer-events",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/pointer-events"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/pointer-events"
     }
   ],
   "pointer-events-api": [
@@ -6216,7 +6216,7 @@
       "slug": "Web/CSS/Reference/Properties/position",
       "title": "position",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/position"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position"
     }
   ],
   "postmessage": [
@@ -6318,7 +6318,7 @@
       "slug": "Web/CSS/Reference/Properties/print-color-adjust",
       "title": "print-color-adjust",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/print-color-adjust"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/print-color-adjust"
     }
   ],
   "print-events": [
@@ -6450,7 +6450,7 @@
       "slug": "Web/CSS/Reference/Properties/quotes",
       "title": "quotes",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/quotes"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/quotes"
     }
   ],
   "rcap": [
@@ -6504,7 +6504,7 @@
       "slug": "Web/CSS/Reference/Properties/reading-flow",
       "title": "reading-flow",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/reading-flow"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/reading-flow"
     }
   ],
   "referrer-policy": [
@@ -6587,8 +6587,8 @@
     {
       "slug": "Web/CSS/Reference/Properties/position",
       "title": "position",
-      "anchor": "relative",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/position#relative"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position"
     }
   ],
   "rem": [
@@ -6686,7 +6686,7 @@
       "slug": "Web/CSS/Reference/Properties/resize",
       "title": "resize",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/resize"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/resize"
     }
   ],
   "resize-observer": [
@@ -6794,7 +6794,7 @@
       "slug": "Web/CSS/Reference/Properties/line-height-step",
       "title": "line-height-step",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/line-height-step"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/line-height-step"
     }
   ],
   "ric": [
@@ -6854,7 +6854,7 @@
       "slug": "Web/CSS/Reference/Properties/ruby-align",
       "title": "ruby-align",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/ruby-align"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ruby-align"
     }
   ],
   "ruby-position": [
@@ -6862,7 +6862,7 @@
       "slug": "Web/CSS/Reference/Properties/ruby-position",
       "title": "ruby-position",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/ruby-position"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ruby-position"
     }
   ],
   "s": [
@@ -6988,7 +6988,7 @@
       "slug": "Web/CSS/Reference/Properties/scroll-behavior",
       "title": "scroll-behavior",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/scroll-behavior"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-behavior"
     }
   ],
   "scroll-driven-animations": [
@@ -7062,7 +7062,7 @@
       "slug": "Web/CSS/Reference/Properties/scrollbar-color",
       "title": "scrollbar-color",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/scrollbar-color"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-color"
     }
   ],
   "scrollbar-gutter": [
@@ -7070,7 +7070,7 @@
       "slug": "Web/CSS/Reference/Properties/scrollbar-gutter",
       "title": "scrollbar-gutter",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/scrollbar-gutter"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-gutter"
     }
   ],
   "scrollbar-width": [
@@ -7078,7 +7078,7 @@
       "slug": "Web/CSS/Reference/Properties/scrollbar-width",
       "title": "scrollbar-width",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/scrollbar-width"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scrollbar-width"
     }
   ],
   "scrollend": [
@@ -7316,7 +7316,7 @@
       "slug": "Web/CSS/Reference/Properties/shape-outside",
       "title": "shape-outside",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/shape-outside"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/shape-outside"
     }
   ],
   "shapes": [
@@ -7465,8 +7465,8 @@
     {
       "slug": "Web/CSS/Reference/Properties/image-rendering",
       "title": "image-rendering",
-      "anchor": "smooth",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/image-rendering#smooth"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/image-rendering"
     }
   ],
   "source": [
@@ -7597,8 +7597,8 @@
     {
       "slug": "Web/CSS/Reference/Properties/position",
       "title": "position",
-      "anchor": "static",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/position#static"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position"
     }
   ],
   "steps-easing": [
@@ -7613,8 +7613,8 @@
     {
       "slug": "Web/CSS/Reference/Properties/position",
       "title": "position",
-      "anchor": "sticky",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/position#sticky"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/position"
     }
   ],
   "storage-access": [
@@ -7645,8 +7645,8 @@
     {
       "slug": "Web/CSS/Reference/Properties/height",
       "title": "height",
-      "anchor": "stretch",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/height#stretch"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/height"
     }
   ],
   "string-at": [
@@ -7918,7 +7918,7 @@
       "slug": "Web/CSS/Reference/Properties/tab-size",
       "title": "tab-size",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/tab-size"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/tab-size"
     }
   ],
   "tabindex": [
@@ -7990,7 +7990,7 @@
       "slug": "Web/CSS/Reference/Properties/text-align",
       "title": "text-align",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-align"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-align"
     }
   ],
   "text-align-last": [
@@ -7998,7 +7998,7 @@
       "slug": "Web/CSS/Reference/Properties/text-align-last",
       "title": "text-align-last",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-align-last"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-align-last"
     }
   ],
   "text-box": [
@@ -8006,7 +8006,7 @@
       "slug": "Web/CSS/Reference/Properties/text-box",
       "title": "text-box",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-box"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-box"
     }
   ],
   "text-combine-upright": [
@@ -8014,7 +8014,7 @@
       "slug": "Web/CSS/Reference/Properties/text-combine-upright",
       "title": "text-combine-upright",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-combine-upright"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-combine-upright"
     }
   ],
   "text-decoration": [
@@ -8022,7 +8022,7 @@
       "slug": "Web/CSS/Reference/Properties/text-decoration",
       "title": "text-decoration",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-decoration"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-decoration"
     }
   ],
   "text-decoration-line-blink": [
@@ -8030,7 +8030,7 @@
       "slug": "Web/CSS/Reference/Properties/text-decoration",
       "title": "text-decoration",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-decoration"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-decoration"
     }
   ],
   "text-decoration-selection": [
@@ -8046,7 +8046,7 @@
       "slug": "Web/CSS/Reference/Properties/text-emphasis",
       "title": "text-emphasis",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-emphasis"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-emphasis"
     }
   ],
   "text-encoding": [
@@ -8062,23 +8062,23 @@
       "slug": "Web/CSS/Reference/Properties/text-indent",
       "title": "text-indent",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-indent"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-indent"
     }
   ],
   "text-indent-each-line": [
     {
       "slug": "Web/CSS/Reference/Properties/text-indent",
       "title": "text-indent",
-      "anchor": "each-line",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-indent#each-line"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-indent"
     }
   ],
   "text-indent-hanging": [
     {
       "slug": "Web/CSS/Reference/Properties/text-indent",
       "title": "text-indent",
-      "anchor": "hanging",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-indent#hanging"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-indent"
     }
   ],
   "text-justify": [
@@ -8086,7 +8086,7 @@
       "slug": "Web/CSS/Reference/Properties/text-justify",
       "title": "text-justify",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-justify"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-justify"
     }
   ],
   "text-orientation": [
@@ -8094,7 +8094,7 @@
       "slug": "Web/CSS/Reference/Properties/text-orientation",
       "title": "text-orientation",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-orientation"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-orientation"
     }
   ],
   "text-overflow": [
@@ -8102,7 +8102,7 @@
       "slug": "Web/CSS/Reference/Properties/text-overflow",
       "title": "text-overflow",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-overflow"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-overflow"
     }
   ],
   "text-shadow": [
@@ -8110,7 +8110,7 @@
       "slug": "Web/CSS/Reference/Properties/text-shadow",
       "title": "text-shadow",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-shadow"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-shadow"
     }
   ],
   "text-size-adjust": [
@@ -8118,7 +8118,7 @@
       "slug": "Web/CSS/Reference/Properties/text-size-adjust",
       "title": "text-size-adjust",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-size-adjust"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-size-adjust"
     }
   ],
   "text-spacing-trim": [
@@ -8126,7 +8126,7 @@
       "slug": "Web/CSS/Reference/Properties/text-spacing-trim",
       "title": "text-spacing-trim",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-spacing-trim"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-spacing-trim"
     }
   ],
   "text-stroke-fill": [
@@ -8134,13 +8134,13 @@
       "slug": "Web/CSS/Reference/Properties/-webkit-text-stroke",
       "title": "-webkit-text-stroke",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/-webkit-text-stroke"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-text-stroke"
     },
     {
       "slug": "Web/CSS/Reference/Properties/-webkit-text-fill-color",
       "title": "-webkit-text-fill-color",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/-webkit-text-fill-color"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/-webkit-text-fill-color"
     }
   ],
   "text-tracks": [
@@ -8156,7 +8156,7 @@
       "slug": "Web/CSS/Reference/Properties/text-transform",
       "title": "text-transform",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-transform"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-transform"
     }
   ],
   "text-underline-offset": [
@@ -8164,7 +8164,7 @@
       "slug": "Web/CSS/Reference/Properties/text-underline-offset",
       "title": "text-underline-offset",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-underline-offset"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-underline-offset"
     }
   ],
   "text-underline-position": [
@@ -8172,13 +8172,13 @@
       "slug": "Web/CSS/Reference/Properties/text-underline-position",
       "title": "text-underline-position",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-underline-position"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-underline-position"
     },
     {
       "slug": "Web/CSS/Reference/Properties/text-underline-offset",
       "title": "text-underline-offset",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-underline-offset"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-underline-offset"
     }
   ],
   "text-wrap": [
@@ -8186,15 +8186,15 @@
       "slug": "Web/CSS/Reference/Properties/text-wrap",
       "title": "text-wrap",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-wrap"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap"
     }
   ],
   "text-wrap-balance": [
     {
       "slug": "Web/CSS/Reference/Properties/text-wrap",
       "title": "text-wrap",
-      "anchor": "balance",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-wrap#balance"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap"
     }
   ],
   "text-wrap-mode": [
@@ -8202,31 +8202,31 @@
       "slug": "Web/CSS/Reference/Properties/text-wrap-mode",
       "title": "text-wrap-mode",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-wrap-mode"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap-mode"
     }
   ],
   "text-wrap-nowrap": [
     {
       "slug": "Web/CSS/Reference/Properties/text-wrap",
       "title": "text-wrap",
-      "anchor": "nowrap",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-wrap#nowrap"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap"
     }
   ],
   "text-wrap-pretty": [
     {
       "slug": "Web/CSS/Reference/Properties/text-wrap",
       "title": "text-wrap",
-      "anchor": "pretty",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-wrap#pretty"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap"
     }
   ],
   "text-wrap-stable": [
     {
       "slug": "Web/CSS/Reference/Properties/text-wrap",
       "title": "text-wrap",
-      "anchor": "stable",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-wrap#stable"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap"
     }
   ],
   "text-wrap-style": [
@@ -8234,7 +8234,7 @@
       "slug": "Web/CSS/Reference/Properties/text-wrap-style",
       "title": "text-wrap-style",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-wrap-style"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-wrap-style"
     }
   ],
   "textarea": [
@@ -8296,7 +8296,7 @@
       "slug": "Web/CSS/Reference/Properties/touch-action",
       "title": "touch-action",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/touch-action"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/touch-action"
     }
   ],
   "touch-events": [
@@ -8326,7 +8326,7 @@
       "slug": "Web/CSS/Reference/Properties/transform-box",
       "title": "transform-box",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/transform-box"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transform-box"
     }
   ],
   "transforms2d": [
@@ -8334,7 +8334,7 @@
       "slug": "Web/CSS/Reference/Properties/transform",
       "title": "transform",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/transform"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transform"
     }
   ],
   "transforms3d": [
@@ -8342,7 +8342,7 @@
       "slug": "Web/CSS/Reference/Properties/transform",
       "title": "transform",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/transform"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transform"
     }
   ],
   "transition-behavior": [
@@ -8350,7 +8350,7 @@
       "slug": "Web/CSS/Reference/Properties/transition-behavior",
       "title": "transition-behavior",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/transition-behavior"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/transition-behavior"
     }
   ],
   "transitions": [
@@ -8666,7 +8666,7 @@
       "slug": "Web/CSS/Reference/Properties/user-select",
       "title": "user-select",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/user-select"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/user-select"
     }
   ],
   "var": [
@@ -8682,7 +8682,7 @@
       "slug": "Web/CSS/Reference/Properties/vertical-align",
       "title": "vertical-align",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/vertical-align"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/vertical-align"
     }
   ],
   "vertical-form-controls": [
@@ -8690,13 +8690,13 @@
       "slug": "Web/CSS/Reference/Properties/writing-mode",
       "title": "writing-mode",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/writing-mode"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/writing-mode"
     },
     {
       "slug": "Web/CSS/Reference/Properties/direction",
       "title": "direction",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/direction"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/direction"
     }
   ],
   "vibration": [
@@ -8728,7 +8728,7 @@
       "slug": "Web/CSS/Reference/Properties/view-transition-class",
       "title": "view-transition-class",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/view-transition-class"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/view-transition-class"
     }
   ],
   "view-transitions": [
@@ -8760,7 +8760,7 @@
       "slug": "Web/CSS/Reference/Properties/visibility",
       "title": "visibility",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/visibility"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/visibility"
     }
   ],
   "visual-viewport": [
@@ -9346,7 +9346,7 @@
       "slug": "Web/CSS/Reference/Properties/white-space",
       "title": "white-space",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/white-space"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/white-space"
     }
   ],
   "white-space-collapse": [
@@ -9354,7 +9354,7 @@
       "slug": "Web/CSS/Reference/Properties/white-space-collapse",
       "title": "white-space-collapse",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/white-space-collapse"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/white-space-collapse"
     }
   ],
   "widows-orphans": [
@@ -9362,13 +9362,13 @@
       "slug": "Web/CSS/Reference/Properties/widows",
       "title": "widows",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/widows"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/widows"
     },
     {
       "slug": "Web/CSS/Reference/Properties/orphans",
       "title": "orphans",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/orphans"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/orphans"
     }
   ],
   "width-height": [
@@ -9376,13 +9376,13 @@
       "slug": "Web/CSS/Reference/Properties/width",
       "title": "width",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/width"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/width"
     },
     {
       "slug": "Web/CSS/Reference/Properties/height",
       "title": "height",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/height"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/height"
     }
   ],
   "will-change": [
@@ -9390,7 +9390,7 @@
       "slug": "Web/CSS/Reference/Properties/will-change",
       "title": "will-change",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/will-change"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/will-change"
     }
   ],
   "window": [
@@ -9430,23 +9430,23 @@
       "slug": "Web/CSS/Reference/Properties/word-break",
       "title": "word-break",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/word-break"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/word-break"
     }
   ],
   "word-break-auto-phrase": [
     {
       "slug": "Web/CSS/Reference/Properties/word-break",
       "title": "word-break",
-      "anchor": "auto-phrase",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/word-break#auto-phrase"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/word-break"
     }
   ],
   "word-break-break-word": [
     {
       "slug": "Web/CSS/Reference/Properties/word-break",
       "title": "word-break",
-      "anchor": "break-word",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/word-break#break-word"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/word-break"
     }
   ],
   "word-spacing": [
@@ -9454,7 +9454,7 @@
       "slug": "Web/CSS/Reference/Properties/word-spacing",
       "title": "word-spacing",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/word-spacing"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/word-spacing"
     }
   ],
   "writing-mode": [
@@ -9462,7 +9462,7 @@
       "slug": "Web/CSS/Reference/Properties/writing-mode",
       "title": "writing-mode",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/writing-mode"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/writing-mode"
     }
   ],
   "writing-mode-svg-values": [
@@ -9470,7 +9470,7 @@
       "slug": "Web/CSS/Reference/Properties/writing-mode",
       "title": "writing-mode",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/writing-mode"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/writing-mode"
     }
   ],
   "writingsuggestions": [
@@ -9518,7 +9518,7 @@
       "slug": "Web/CSS/Reference/Properties/z-index",
       "title": "z-index",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/z-index"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/z-index"
     }
   ],
   "zoom": [
@@ -9526,7 +9526,7 @@
       "slug": "Web/CSS/Reference/Properties/zoom",
       "title": "zoom",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/zoom"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/zoom"
     }
   ],
   "zstd": [
@@ -10174,7 +10174,7 @@
       "slug": "Web/CSS/Reference/Properties/ruby-overhang",
       "title": "ruby-overhang",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/ruby-overhang"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/ruby-overhang"
     }
   ],
   "scroll-markers": [
@@ -10182,7 +10182,7 @@
       "slug": "Web/CSS/Reference/Properties/scroll-marker-group",
       "title": "scroll-marker-group",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/scroll-marker-group"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-marker-group"
     },
     {
       "slug": "Web/CSS/::scroll-marker",
@@ -10274,7 +10274,7 @@
       "slug": "Web/CSS/Reference/Properties/text-autospace",
       "title": "text-autospace",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/text-autospace"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/text-autospace"
     }
   ],
   "column-pseudo": [
@@ -10392,7 +10392,7 @@
       "slug": "Web/CSS/Reference/Properties/caret-shape",
       "title": "caret-shape",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/caret-shape"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/caret-shape"
     }
   ],
   "queuemicrotask": [
@@ -10408,7 +10408,7 @@
       "slug": "Web/CSS/Reference/Properties/object-view-box",
       "title": "object-view-box",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/object-view-box"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/object-view-box"
     }
   ],
   "getallrecords": [
@@ -10430,7 +10430,7 @@
       "slug": "Web/CSS/Reference/Properties/interactivity",
       "title": "interactivity",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/interactivity"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/interactivity"
     }
   ]
 }
