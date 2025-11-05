@@ -643,7 +643,7 @@
   ],
   "autofill": [
     {
-      "slug": "Web/CSS/:autofill",
+      "slug": "Web/CSS/Reference/Selectors/:autofill",
       "title": ":autofill",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:autofill"
@@ -683,7 +683,7 @@
   ],
   "backdrop": [
     {
-      "slug": "Web/CSS/::backdrop",
+      "slug": "Web/CSS/Reference/Selectors/::backdrop",
       "title": "::backdrop",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::backdrop"
@@ -895,13 +895,13 @@
   ],
   "before-after": [
     {
-      "slug": "Web/CSS/::after",
+      "slug": "Web/CSS/Reference/Selectors/::after",
       "title": "::after",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::after"
     },
     {
-      "slug": "Web/CSS/::before",
+      "slug": "Web/CSS/Reference/Selectors/::before",
       "title": "::before",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::before"
@@ -1227,7 +1227,7 @@
   ],
   "case-insensitive-attributes": [
     {
-      "slug": "Web/CSS/Attribute_selectors#s",
+      "slug": "Web/CSS/Reference/Selectors/Attribute_selectors",
       "title": "Attribute selectors",
       "anchor": "s",
       "url": "https://developer.mozilla.org/docs/Web/CSS/Attribute_selectors#s"
@@ -1235,7 +1235,7 @@
   ],
   "case-sensitive-attributes": [
     {
-      "slug": "Web/CSS/Attribute_selectors#s",
+      "slug": "Web/CSS/Reference/Selectors/Attribute_selectors",
       "title": "Attribute selectors",
       "anchor": "s",
       "url": "https://developer.mozilla.org/docs/Web/CSS/Attribute_selectors#s"
@@ -2077,7 +2077,7 @@
   ],
   "default": [
     {
-      "slug": "Web/CSS/:default",
+      "slug": "Web/CSS/Reference/Selectors/:default",
       "title": ":default",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:default"
@@ -2129,7 +2129,7 @@
   ],
   "details-content": [
     {
-      "slug": "Web/CSS/::details-content",
+      "slug": "Web/CSS/Reference/Selectors/::details-content",
       "title": "::details-content",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::details-content"
@@ -2221,7 +2221,7 @@
   ],
   "dir-pseudo": [
     {
-      "slug": "Web/CSS/:dir",
+      "slug": "Web/CSS/Reference/Selectors/:dir",
       "title": ":dir()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:dir"
@@ -2515,7 +2515,7 @@
   ],
   "empty": [
     {
-      "slug": "Web/CSS/:empty",
+      "slug": "Web/CSS/Reference/Selectors/:empty",
       "title": ":empty",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:empty"
@@ -2893,7 +2893,7 @@
   ],
   "file-selector-button": [
     {
-      "slug": "Web/CSS/::file-selector-button",
+      "slug": "Web/CSS/Reference/Selectors/::file-selector-button",
       "title": "::file-selector-button",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::file-selector-button"
@@ -2935,7 +2935,7 @@
   ],
   "first-letter": [
     {
-      "slug": "Web/CSS/::first-letter",
+      "slug": "Web/CSS/Reference/Selectors/::first-letter",
       "title": "::first-letter",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::first-letter"
@@ -2943,7 +2943,7 @@
   ],
   "first-line": [
     {
-      "slug": "Web/CSS/::first-line",
+      "slug": "Web/CSS/Reference/Selectors/::first-line",
       "title": "::first-line",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::first-line"
@@ -3039,7 +3039,7 @@
   ],
   "focus-visible": [
     {
-      "slug": "Web/CSS/:focus-visible",
+      "slug": "Web/CSS/Reference/Selectors/:focus-visible",
       "title": ":focus-visible",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:focus-visible"
@@ -3047,7 +3047,7 @@
   ],
   "focus-within": [
     {
-      "slug": "Web/CSS/:focus-within",
+      "slug": "Web/CSS/Reference/Selectors/:focus-within",
       "title": ":focus-within",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:focus-within"
@@ -3369,37 +3369,37 @@
   ],
   "form-validity-pseudos": [
     {
-      "slug": "Web/CSS/:valid",
+      "slug": "Web/CSS/Reference/Selectors/:valid",
       "title": ":valid",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:valid"
     },
     {
-      "slug": "Web/CSS/:invalid",
+      "slug": "Web/CSS/Reference/Selectors/:invalid",
       "title": ":invalid",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:invalid"
     },
     {
-      "slug": "Web/CSS/:in-range",
+      "slug": "Web/CSS/Reference/Selectors/:in-range",
       "title": ":in-range",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:in-range"
     },
     {
-      "slug": "Web/CSS/:out-of-range",
+      "slug": "Web/CSS/Reference/Selectors/:out-of-range",
       "title": ":out-of-range",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:out-of-range"
     },
     {
-      "slug": "Web/CSS/:optional",
+      "slug": "Web/CSS/Reference/Selectors/:optional",
       "title": ":optional",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:optional"
     },
     {
-      "slug": "Web/CSS/:required",
+      "slug": "Web/CSS/Reference/Selectors/:required",
       "title": ":required",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:required"
@@ -3611,7 +3611,7 @@
   ],
   "has": [
     {
-      "slug": "Web/CSS/:has",
+      "slug": "Web/CSS/Reference/Selectors/:has",
       "title": ":has()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:has"
@@ -3619,7 +3619,7 @@
   ],
   "has-slotted": [
     {
-      "slug": "Web/CSS/:has-slotted",
+      "slug": "Web/CSS/Reference/Selectors/:has-slotted",
       "title": ":has-slotted",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:has-slotted"
@@ -3705,13 +3705,13 @@
   ],
   "host": [
     {
-      "slug": "Web/CSS/:host",
+      "slug": "Web/CSS/Reference/Selectors/:host",
       "title": ":host",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:host"
     },
     {
-      "slug": "Web/CSS/:host_function",
+      "slug": "Web/CSS/Reference/Selectors/:host_function",
       "title": ":host()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:host_function"
@@ -3719,7 +3719,7 @@
   ],
   "host-context": [
     {
-      "slug": "Web/CSS/:host-context",
+      "slug": "Web/CSS/Reference/Selectors/:host-context",
       "title": ":host-context()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:host-context"
@@ -4057,7 +4057,7 @@
   ],
   "indeterminate": [
     {
-      "slug": "Web/CSS/:indeterminate",
+      "slug": "Web/CSS/Reference/Selectors/:indeterminate",
       "title": ":indeterminate",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:indeterminate"
@@ -4271,19 +4271,19 @@
   ],
   "input-selectors": [
     {
-      "slug": "Web/CSS/:checked",
+      "slug": "Web/CSS/Reference/Selectors/:checked",
       "title": ":checked",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:checked"
     },
     {
-      "slug": "Web/CSS/:disabled",
+      "slug": "Web/CSS/Reference/Selectors/:disabled",
       "title": ":disabled",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:disabled"
     },
     {
-      "slug": "Web/CSS/:enabled",
+      "slug": "Web/CSS/Reference/Selectors/:enabled",
       "title": ":enabled",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:enabled"
@@ -4443,7 +4443,7 @@
   ],
   "is": [
     {
-      "slug": "Web/CSS/:is",
+      "slug": "Web/CSS/Reference/Selectors/:is",
       "title": ":is()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:is"
@@ -4647,7 +4647,7 @@
   ],
   "lang": [
     {
-      "slug": "Web/CSS/:lang",
+      "slug": "Web/CSS/Reference/Selectors/:lang",
       "title": ":lang()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:lang"
@@ -4825,19 +4825,19 @@
   ],
   "link-selectors": [
     {
-      "slug": "Web/CSS/:link",
+      "slug": "Web/CSS/Reference/Selectors/:link",
       "title": ":link",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:link"
     },
     {
-      "slug": "Web/CSS/:visited",
+      "slug": "Web/CSS/Reference/Selectors/:visited",
       "title": ":visited",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:visited"
     },
     {
-      "slug": "Web/CSS/:any-link",
+      "slug": "Web/CSS/Reference/Selectors/:any-link",
       "title": ":any-link",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:any-link"
@@ -5013,7 +5013,7 @@
   ],
   "marker": [
     {
-      "slug": "Web/CSS/::marker",
+      "slug": "Web/CSS/Reference/Selectors/::marker",
       "title": "::marker",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::marker"
@@ -5109,13 +5109,13 @@
   ],
   "media-pseudos": [
     {
-      "slug": "Web/CSS/:paused",
+      "slug": "Web/CSS/Reference/Selectors/:paused",
       "title": ":paused",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:paused"
     },
     {
-      "slug": "Web/CSS/:playing",
+      "slug": "Web/CSS/Reference/Selectors/:playing",
       "title": ":playing",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:playing"
@@ -5301,7 +5301,7 @@
   ],
   "modal": [
     {
-      "slug": "Web/CSS/:modal",
+      "slug": "Web/CSS/Reference/Selectors/:modal",
       "title": ":modal",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:modal"
@@ -5425,7 +5425,7 @@
   ],
   "nesting": [
     {
-      "slug": "Web/CSS/Nesting_selector",
+      "slug": "Web/CSS/Reference/Selectors/Nesting_selector",
       "title": "& nesting selector",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/Nesting_selector"
@@ -5449,7 +5449,7 @@
   ],
   "not": [
     {
-      "slug": "Web/CSS/:not",
+      "slug": "Web/CSS/Reference/Selectors/:not",
       "title": ":not()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:not"
@@ -5473,13 +5473,13 @@
   ],
   "nth-child": [
     {
-      "slug": "Web/CSS/:nth-child",
+      "slug": "Web/CSS/Reference/Selectors/:nth-child",
       "title": ":nth-child()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:nth-child"
     },
     {
-      "slug": "Web/CSS/:nth-last-child",
+      "slug": "Web/CSS/Reference/Selectors/:nth-last-child",
       "title": ":nth-last-child()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:nth-last-child"
@@ -5487,13 +5487,13 @@
   ],
   "nth-child-of": [
     {
-      "slug": "Web/CSS/:nth-child#the_of_selector_syntax",
+      "slug": "Web/CSS/Reference/Selectors/:nth-child",
       "title": ":nth-child()",
       "anchor": "the_of_selector_syntax",
       "url": "https://developer.mozilla.org/docs/Web/CSS/:nth-child#the_of_selector_syntax"
     },
     {
-      "slug": "Web/CSS/:nth-last-child#the_of_selector_syntax",
+      "slug": "Web/CSS/Reference/Selectors/:nth-last-child",
       "title": ":nth-last-child()",
       "anchor": "the_of_selector_syntax",
       "url": "https://developer.mozilla.org/docs/Web/CSS/:nth-last-child#the_of_selector_syntax"
@@ -5501,13 +5501,13 @@
   ],
   "nth-of-type": [
     {
-      "slug": "Web/CSS/:nth-of-type",
+      "slug": "Web/CSS/Reference/Selectors/:nth-of-type",
       "title": ":nth-of-type()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:nth-of-type"
     },
     {
-      "slug": "Web/CSS/:nth-last-of-type",
+      "slug": "Web/CSS/Reference/Selectors/:nth-last-of-type",
       "title": ":nth-last-of-type()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:nth-last-of-type"
@@ -5709,7 +5709,7 @@
   ],
   "open-closed": [
     {
-      "slug": "Web/CSS/:open",
+      "slug": "Web/CSS/Reference/Selectors/:open",
       "title": ":open",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:open"
@@ -5939,19 +5939,19 @@
   ],
   "page-selectors": [
     {
-      "slug": "Web/CSS/:first",
+      "slug": "Web/CSS/Reference/Selectors/:first",
       "title": ":first",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:first"
     },
     {
-      "slug": "Web/CSS/:left",
+      "slug": "Web/CSS/Reference/Selectors/:left",
       "title": ":left",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:left"
     },
     {
-      "slug": "Web/CSS/:right",
+      "slug": "Web/CSS/Reference/Selectors/:right",
       "title": ":right",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:right"
@@ -6157,7 +6157,7 @@
   ],
   "placeholder": [
     {
-      "slug": "Web/CSS/::placeholder",
+      "slug": "Web/CSS/Reference/Selectors/::placeholder",
       "title": "::placeholder",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::placeholder"
@@ -6165,7 +6165,7 @@
   ],
   "placeholder-shown": [
     {
-      "slug": "Web/CSS/:placeholder-shown",
+      "slug": "Web/CSS/Reference/Selectors/:placeholder-shown",
       "title": ":placeholder-shown",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:placeholder-shown"
@@ -6471,13 +6471,13 @@
   ],
   "read-write-pseudos": [
     {
-      "slug": "Web/CSS/:read-only",
+      "slug": "Web/CSS/Reference/Selectors/:read-only",
       "title": ":read-only",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:read-only"
     },
     {
-      "slug": "Web/CSS/:read-write",
+      "slug": "Web/CSS/Reference/Selectors/:read-write",
       "title": ":read-write",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:read-write"
@@ -6815,7 +6815,7 @@
   ],
   "root": [
     {
-      "slug": "Web/CSS/:root",
+      "slug": "Web/CSS/Reference/Selectors/:root",
       "title": ":root",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:root"
@@ -6915,7 +6915,7 @@
   ],
   "scope-pseudo": [
     {
-      "slug": "Web/CSS/:scope",
+      "slug": "Web/CSS/Reference/Selectors/:scope",
       "title": ":scope",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:scope"
@@ -7123,7 +7123,7 @@
   ],
   "selection": [
     {
-      "slug": "Web/CSS/::selection",
+      "slug": "Web/CSS/Reference/Selectors/::selection",
       "title": "::selection",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::selection"
@@ -7305,7 +7305,7 @@
       "url": "https://developer.mozilla.org/docs/Web/HTML/Reference/Global_attributes/exportparts"
     },
     {
-      "slug": "Web/CSS/::part",
+      "slug": "Web/CSS/Reference/Selectors/::part",
       "title": "::part()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::part"
@@ -7535,13 +7535,13 @@
   ],
   "spelling-grammar-error": [
     {
-      "slug": "Web/CSS/::grammar-error",
+      "slug": "Web/CSS/Reference/Selectors/::grammar-error",
       "title": "::grammar-error",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::grammar-error"
     },
     {
-      "slug": "Web/CSS/::spelling-error",
+      "slug": "Web/CSS/Reference/Selectors/::spelling-error",
       "title": "::spelling-error",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::spelling-error"
@@ -7587,7 +7587,7 @@
   ],
   "state": [
     {
-      "slug": "Web/CSS/:state",
+      "slug": "Web/CSS/Reference/Selectors/:state",
       "title": ":state()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:state"
@@ -7939,7 +7939,7 @@
   ],
   "target": [
     {
-      "slug": "Web/CSS/:target",
+      "slug": "Web/CSS/Reference/Selectors/:target",
       "title": ":target",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:target"
@@ -7947,7 +7947,7 @@
   ],
   "target-text": [
     {
-      "slug": "Web/CSS/::target-text",
+      "slug": "Web/CSS/Reference/Selectors/::target-text",
       "title": "::target-text",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::target-text"
@@ -8035,7 +8035,7 @@
   ],
   "text-decoration-selection": [
     {
-      "slug": "Web/CSS/::selection",
+      "slug": "Web/CSS/Reference/Selectors/::selection",
       "title": "::selection",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::selection"
@@ -8255,13 +8255,13 @@
   ],
   "time-relative-selectors": [
     {
-      "slug": "Web/CSS/:future",
+      "slug": "Web/CSS/Reference/Selectors/:future",
       "title": ":future",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:future"
     },
     {
-      "slug": "Web/CSS/:past",
+      "slug": "Web/CSS/Reference/Selectors/:past",
       "title": ":past",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:past"
@@ -8613,19 +8613,19 @@
   ],
   "user-action-pseudos": [
     {
-      "slug": "Web/CSS/:active",
+      "slug": "Web/CSS/Reference/Selectors/:active",
       "title": ":active",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:active"
     },
     {
-      "slug": "Web/CSS/:focus",
+      "slug": "Web/CSS/Reference/Selectors/:focus",
       "title": ":focus",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:focus"
     },
     {
-      "slug": "Web/CSS/:hover",
+      "slug": "Web/CSS/Reference/Selectors/:hover",
       "title": ":hover",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:hover"
@@ -8649,13 +8649,13 @@
   ],
   "user-pseudos": [
     {
-      "slug": "Web/CSS/:user-invalid",
+      "slug": "Web/CSS/Reference/Selectors/:user-invalid",
       "title": ":user-invalid",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:user-invalid"
     },
     {
-      "slug": "Web/CSS/:user-valid",
+      "slug": "Web/CSS/Reference/Selectors/:user-valid",
       "title": ":user-valid",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:user-valid"
@@ -9335,7 +9335,7 @@
   ],
   "where": [
     {
-      "slug": "Web/CSS/:where",
+      "slug": "Web/CSS/Reference/Selectors/:where",
       "title": ":where()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:where"
@@ -10079,7 +10079,7 @@
   ],
   "active-view-transition": [
     {
-      "slug": "Web/CSS/:active-view-transition",
+      "slug": "Web/CSS/Reference/Selectors/:active-view-transition",
       "title": ":active-view-transition",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:active-view-transition"
@@ -10185,13 +10185,13 @@
       "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/Properties/scroll-marker-group"
     },
     {
-      "slug": "Web/CSS/::scroll-marker",
+      "slug": "Web/CSS/Reference/Selectors/::scroll-marker",
       "title": "::scroll-marker",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::scroll-marker"
     },
     {
-      "slug": "Web/CSS/::scroll-marker-group",
+      "slug": "Web/CSS/Reference/Selectors/::scroll-marker-group",
       "title": "::scroll-marker-group",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::scroll-marker-group"
@@ -10221,7 +10221,7 @@
   ],
   "heading-selectors": [
     {
-      "slug": "Web/CSS/:heading",
+      "slug": "Web/CSS/Reference/Selectors/:heading",
       "title": ":heading",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:heading"
@@ -10249,7 +10249,7 @@
   ],
   "scroll-buttons": [
     {
-      "slug": "Web/CSS/::scroll-button",
+      "slug": "Web/CSS/Reference/Selectors/::scroll-button",
       "title": "::scroll-button()",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::scroll-button"
@@ -10279,7 +10279,7 @@
   ],
   "column-pseudo": [
     {
-      "slug": "Web/CSS/::column",
+      "slug": "Web/CSS/Reference/Selectors/::column",
       "title": "::column",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/::column"
@@ -10463,7 +10463,7 @@
   ],
   "open-pseudo": [
     {
-      "slug": "Web/CSS/:open",
+      "slug": "Web/CSS/Reference/Selectors/:open",
       "title": ":open",
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/:open"
