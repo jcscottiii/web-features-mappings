@@ -1222,7 +1222,7 @@
       "slug": "Web/CSS/Reference/At-rules/@layer",
       "title": "@layer",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@layer"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@layer"
     }
   ],
   "case-insensitive-attributes": [
@@ -1270,7 +1270,7 @@
       "slug": "Web/CSS/Reference/At-rules/@charset",
       "title": "@charset",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@charset"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@charset"
     }
   ],
   "check-visibility": [
@@ -1446,7 +1446,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/color-gamut",
       "title": "color-gamut",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/color-gamut"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/color-gamut"
     }
   ],
   "color-mix": [
@@ -1470,7 +1470,7 @@
       "slug": "Web/CSS/Reference/At-rules/@font-face",
       "title": "@font-face",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@font-face"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@font-face"
     }
   ],
   "colrv1": [
@@ -1478,7 +1478,7 @@
       "slug": "Web/CSS/Reference/At-rules/@font-face",
       "title": "@font-face",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@font-face"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@font-face"
     }
   ],
   "column-breaks": [
@@ -1692,7 +1692,7 @@
       "slug": "Web/CSS/Reference/At-rules/@container",
       "title": "@container",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@container"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@container"
     }
   ],
   "content": [
@@ -1824,7 +1824,7 @@
       "slug": "Web/CSS/Reference/At-rules/@counter-style",
       "title": "@counter-style",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@counter-style"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@counter-style"
     }
   ],
   "counters": [
@@ -1870,7 +1870,7 @@
       "slug": "Web/CSS/Reference/At-rules/@view-transition",
       "title": "@view-transition",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@view-transition"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@view-transition"
     }
   ],
   "cross-fade": [
@@ -2172,19 +2172,19 @@
       "slug": "Web/CSS/Reference/At-rules/@media/device-aspect-ratio",
       "title": "device-aspect-ratio",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/device-aspect-ratio"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/device-aspect-ratio"
     },
     {
       "slug": "Web/CSS/Reference/At-rules/@media/device-height",
       "title": "device-height",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/device-height"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/device-height"
     },
     {
       "slug": "Web/CSS/Reference/At-rules/@media/device-width",
       "title": "device-width",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/device-width"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/device-width"
     }
   ],
   "devicepixelratio": [
@@ -2286,7 +2286,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/display-mode",
       "title": "display-mode",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/display-mode"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/display-mode"
     }
   ],
   "display-ruby": [
@@ -2440,7 +2440,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/dynamic-range",
       "title": "dynamic-range",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/dynamic-range"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/dynamic-range"
     }
   ],
   "edit-context": [
@@ -3058,7 +3058,7 @@
       "slug": "Web/CSS/Reference/At-rules/@font-face/font-display",
       "title": "font-display",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@font-face/font-display"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@font-face/font-display"
     }
   ],
   "font-face": [
@@ -3066,7 +3066,7 @@
       "slug": "Web/CSS/Reference/At-rules/@font-face",
       "title": "@font-face",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@font-face"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@font-face"
     }
   ],
   "font-family": [
@@ -3138,7 +3138,7 @@
       "slug": "Web/CSS/Reference/At-rules/@font-face",
       "title": "@font-face",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@font-face"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@font-face"
     }
   ],
   "font-optical-sizing": [
@@ -3264,7 +3264,7 @@
       "slug": "Web/CSS/Reference/At-rules/@font-feature-values",
       "title": "@font-feature-values",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@font-feature-values"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@font-feature-values"
     }
   ],
   "font-variant-caps": [
@@ -3336,7 +3336,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/forced-colors",
       "title": "forced-colors",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/forced-colors"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/forced-colors"
     },
     {
       "slug": "Web/CSS/Reference/Properties/forced-color-adjust",
@@ -4036,7 +4036,7 @@
       "slug": "Web/CSS/Reference/At-rules/@import",
       "title": "@import",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@import"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@import"
     }
   ],
   "import-assertions": [
@@ -4325,8 +4325,8 @@
     {
       "slug": "Web/CSS/Reference/At-rules/@media",
       "title": "@media",
-      "anchor": "media_features",
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media#media_features"
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media"
     }
   ],
   "interpolate-size": [
@@ -4430,7 +4430,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/inverted-colors",
       "title": "inverted-colors",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/inverted-colors"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/inverted-colors"
     }
   ],
   "invoker-commands": [
@@ -5126,7 +5126,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media",
       "title": "@media",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media"
     }
   ],
   "media-query-range-syntax": [
@@ -5388,7 +5388,7 @@
       "slug": "Web/CSS/Reference/At-rules/@namespace",
       "title": "@namespace",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@namespace"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@namespace"
     }
   ],
   "nav": [
@@ -5786,13 +5786,13 @@
       "slug": "Web/CSS/Reference/At-rules/@media/overflow-block",
       "title": "overflow-block",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/overflow-block"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/overflow-block"
     },
     {
       "slug": "Web/CSS/Reference/At-rules/@media/overflow-inline",
       "title": "overflow-inline",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/overflow-inline"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/overflow-inline"
     }
   ],
   "overflow-anchor": [
@@ -5934,7 +5934,7 @@
       "slug": "Web/CSS/Reference/At-rules/@page/page-orientation",
       "title": "page-orientation",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@page/page-orientation"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@page/page-orientation"
     }
   ],
   "page-selectors": [
@@ -5962,7 +5962,7 @@
       "slug": "Web/CSS/Reference/At-rules/@page",
       "title": "@page",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@page"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@page"
     }
   ],
   "page-transition-events": [
@@ -6246,7 +6246,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/prefers-color-scheme",
       "title": "prefers-color-scheme",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/prefers-color-scheme"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/prefers-color-scheme"
     }
   ],
   "prefers-contrast": [
@@ -6254,7 +6254,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/prefers-contrast",
       "title": "prefers-contrast",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/prefers-contrast"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/prefers-contrast"
     }
   ],
   "prefers-reduced-data": [
@@ -6262,7 +6262,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/prefers-reduced-data",
       "title": "prefers-reduced-data",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/prefers-reduced-data"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-data"
     }
   ],
   "prefers-reduced-motion": [
@@ -6270,7 +6270,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/prefers-reduced-motion",
       "title": "prefers-reduced-motion",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/prefers-reduced-motion"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-motion"
     }
   ],
   "prefers-reduced-transparency": [
@@ -6278,7 +6278,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/prefers-reduced-transparency",
       "title": "prefers-reduced-transparency",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/prefers-reduced-transparency"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/prefers-reduced-transparency"
     }
   ],
   "preloading-responsive-images": [
@@ -6558,7 +6558,7 @@
       "slug": "Web/CSS/Reference/At-rules/@property",
       "title": "@property",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@property"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@property"
     }
   ],
   "registerprotocolhandler": [
@@ -6708,7 +6708,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/resolution",
       "title": "resolution",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/resolution"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/resolution"
     }
   ],
   "resolution-compat": [
@@ -6716,7 +6716,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/-webkit-device-pixel-ratio",
       "title": "-webkit-device-pixel-ratio",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/-webkit-device-pixel-ratio"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/-webkit-device-pixel-ratio"
     }
   ],
   "resource-size": [
@@ -6910,7 +6910,7 @@
       "slug": "Web/CSS/Reference/At-rules/@scope",
       "title": "@scope",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@scope"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@scope"
     }
   ],
   "scope-pseudo": [
@@ -6980,7 +6980,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/scripting",
       "title": "scripting",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/scripting"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/scripting"
     }
   ],
   "scroll-behavior": [
@@ -7498,7 +7498,7 @@
       "slug": "Web/CSS/Reference/At-rules/@counter-style/speak-as",
       "title": "speak-as",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@counter-style/speak-as"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@counter-style/speak-as"
     }
   ],
   "speculation-rules": [
@@ -7582,7 +7582,7 @@
       "slug": "Web/CSS/Reference/At-rules/@starting-style",
       "title": "@starting-style",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@starting-style"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@starting-style"
     }
   ],
   "state": [
@@ -7850,7 +7850,7 @@
       "slug": "Web/CSS/Reference/At-rules/@supports",
       "title": "@supports",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@supports"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@supports"
     }
   ],
   "supports-compat": [
@@ -7858,7 +7858,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/-webkit-transform-3d",
       "title": "-webkit-transform-3d",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/-webkit-transform-3d"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/-webkit-transform-3d"
     }
   ],
   "svg": [
@@ -8576,7 +8576,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/update",
       "title": "update",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/update"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/update"
     }
   ],
   "upgrade-insecure-requests": [
@@ -8720,7 +8720,7 @@
       "slug": "Web/CSS/Reference/At-rules/@media/video-dynamic-range",
       "title": "video-dynamic-range",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/video-dynamic-range"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/video-dynamic-range"
     }
   ],
   "view-transition-class": [
@@ -10310,13 +10310,13 @@
       "slug": "Web/CSS/Reference/At-rules/@media/horizontal-viewport-segments",
       "title": "horizontal-viewport-segments",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/horizontal-viewport-segments"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/horizontal-viewport-segments"
     },
     {
       "slug": "Web/CSS/Reference/At-rules/@media/vertical-viewport-segments",
       "title": "vertical-viewport-segments",
       "anchor": null,
-      "url": "https://developer.mozilla.org/docs/Web/CSS/@media/vertical-viewport-segments"
+      "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@media/vertical-viewport-segments"
     }
   ],
   "input-color-alpha": [
