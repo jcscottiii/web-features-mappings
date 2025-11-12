@@ -54,7 +54,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.46409255,
+      "percentageOfPageLoad": 0.46316404,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/124"
     }
   },
@@ -85,7 +85,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00584573,
+      "percentageOfPageLoad": 0.00503244,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/88"
     }
   },
@@ -165,7 +165,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00201397,
+      "percentageOfPageLoad": 0.00163124,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/147"
     }
   },
@@ -174,20 +174,6 @@
       "url": "https://wpt.fyi/results?q=feature:accent-color"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.57.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.35.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -259,7 +245,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02022671,
+      "percentageOfPageLoad": 0.02056187,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/6"
     }
   },
@@ -329,7 +315,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00072437,
+      "percentageOfPageLoad": 0.0007505,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/217"
     }
   },
@@ -381,7 +367,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.07893908,
+      "percentageOfPageLoad": 0.06808813,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/345"
     }
   },
@@ -469,13 +455,6 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_missing_elements",
-        "question": "usage",
-        "subQuestion": "html_missing_elements",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_missing_elements.combined.allEditions.0.buckets.11.groupedBuckets.0.groupedBuckets.3.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
         "question": "usage",
         "subQuestion": "html_interoperability_features",
@@ -486,7 +465,7 @@
         "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
         "question": "usage",
         "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.4.entity"
+        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.6.entity"
       },
       {
         "name": "State of HTML 2024",
@@ -649,7 +628,7 @@
       "votes": 3
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00294283,
+      "percentageOfPageLoad": 0.00325487,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/97"
     }
   },
@@ -676,11 +655,14 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00320031,
+      "percentageOfPageLoad": 0.0038106,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/7"
     }
   },
   "animations-css": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:animations-css"
+    },
     "mdn-docs": [
       {
         "slug": "Web/CSS/Reference/Properties/animation",
@@ -695,13 +677,6 @@
       "url": "https://wpt.fyi/results?q=feature:app-file-handlers"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/system_capabilities/#system_capabilities_pain_points",
-        "question": "system_capabilities",
-        "subQuestion": "system_capabilities_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.system_capabilities.system_capabilities_pain_points.freeform.allEditions.0.buckets.18.groupedBuckets.0.groupedBuckets.26.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
@@ -737,7 +712,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 5.5e-7,
+      "percentageOfPageLoad": 4.7e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/299"
     }
   },
@@ -755,11 +730,14 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01026934,
+      "percentageOfPageLoad": 0.00965571,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/309"
     }
   },
   "app-protocol-handlers": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:app-protocol-handlers"
+    },
     "standards-positions": [
       {
         "vendor": "mozilla",
@@ -781,7 +759,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00339864,
+      "percentageOfPageLoad": 0.00379241,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/300"
     }
   },
@@ -825,11 +803,14 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00302769,
+      "percentageOfPageLoad": 0.00268968,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/304"
     }
   },
   "app-shortcuts": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:app-shortcuts"
+    },
     "standards-positions": [
       {
         "vendor": "mozilla",
@@ -851,7 +832,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01875408,
+      "percentageOfPageLoad": 0.017173,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/305"
     }
   },
@@ -875,7 +856,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.46006344,
+      "percentageOfPageLoad": 0.46682081,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/8"
     }
   },
@@ -908,7 +889,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.15780904,
+      "percentageOfPageLoad": 0.1600173,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/96"
     }
   },
@@ -996,7 +977,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01692795,
+      "percentageOfPageLoad": 0.01941702,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/223"
     }
   },
@@ -1052,7 +1033,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01150451,
+      "percentageOfPageLoad": 0.01297867,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/238"
     }
   },
@@ -1114,7 +1095,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01031288,
+      "percentageOfPageLoad": 0.01101337,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/224"
     }
   },
@@ -1134,7 +1115,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02585207,
+      "percentageOfPageLoad": 0.02701425,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/239"
     }
   },
@@ -1236,13 +1217,6 @@
     },
     "state-of-surveys": [
       {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.40.entity"
-      },
-      {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
         "question": "usage",
@@ -1341,7 +1315,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.33374358,
+      "percentageOfPageLoad": 0.30688701,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/9"
     }
   },
@@ -1360,27 +1334,6 @@
       "url": "https://wpt.fyi/results?q=feature:async-clipboard"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.92.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.15.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/system_capabilities/#system_capabilities_pain_points",
-        "question": "system_capabilities",
-        "subQuestion": "system_capabilities_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.system_capabilities.system_capabilities_pain_points.freeform.allEditions.0.buckets.18.groupedBuckets.0.groupedBuckets.19.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
@@ -1412,7 +1365,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00328686,
+      "percentageOfPageLoad": 0.00409826,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/121"
     }
   },
@@ -1451,7 +1404,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00214459,
+      "percentageOfPageLoad": 0.00210328,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/279"
     }
   },
@@ -1475,7 +1428,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 1.1e-7,
+      "percentageOfPageLoad": 3.3e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/377"
     }
   },
@@ -1501,7 +1454,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00004839,
+      "percentageOfPageLoad": 0.000203,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/242"
     }
   },
@@ -1510,13 +1463,6 @@
       "url": "https://wpt.fyi/results?q=feature:attr"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.59.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -1639,11 +1585,14 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.22916921,
+      "percentageOfPageLoad": 0.20813551,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/282"
     }
   },
   "audio": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:audio"
+    },
     "mdn-docs": [
       {
         "slug": "Web/HTML/Reference/Elements/audio",
@@ -1692,7 +1641,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00090043,
+      "percentageOfPageLoad": 0.00153304,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/152"
     }
   },
@@ -1714,6 +1663,9 @@
     }
   },
   "autocorrect": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:autocorrect"
+    },
     "mdn-docs": [
       {
         "slug": "Web/HTML/Reference/Global_attributes/autocorrect",
@@ -1740,11 +1692,14 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02194789,
+      "percentageOfPageLoad": 0.0240268,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/352"
     }
   },
   "autofocus": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:autofocus"
+    },
     "mdn-docs": [
       {
         "slug": "Web/HTML/Reference/Global_attributes/autofocus",
@@ -1780,11 +1735,14 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.08692471,
+      "percentageOfPageLoad": 0.07565806,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/10"
     }
   },
   "b": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:b"
+    },
     "mdn-docs": [
       {
         "slug": "Web/HTML/Reference/Elements/b",
@@ -1795,6 +1753,9 @@
     ]
   },
   "backdrop": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:backdrop"
+    },
     "mdn-docs": [
       {
         "slug": "Web/CSS/Reference/Selectors/::backdrop",
@@ -1809,13 +1770,6 @@
       "url": "https://wpt.fyi/results?q=feature:backdrop-filter"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.41.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -1882,7 +1836,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.30196408,
+      "percentageOfPageLoad": 0.28564616,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/11"
     }
   },
@@ -1968,7 +1922,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.42076383,
+      "percentageOfPageLoad": 0.43716039,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/131"
     }
   },
@@ -2104,7 +2058,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00100453,
+      "percentageOfPageLoad": 0.00135458,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/301"
     }
   },
@@ -2132,7 +2086,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.12623862,
+      "percentageOfPageLoad": 0.11219944,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/274"
     }
   },
@@ -2194,7 +2148,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00026507,
+      "percentageOfPageLoad": 0.00029086,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/214"
     }
   },
@@ -2284,7 +2238,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.14875503,
+      "percentageOfPageLoad": 0.13318272,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/303"
     }
   },
@@ -2302,7 +2256,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.57808064,
+      "percentageOfPageLoad": 0.59362241,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/275"
     }
   },
@@ -2326,7 +2280,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.15603553,
+      "percentageOfPageLoad": 0.13781776,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/276"
     }
   },
@@ -2459,7 +2413,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.1150497,
+      "percentageOfPageLoad": 0.10650022,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/12"
     }
   },
@@ -2503,7 +2457,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.05568472,
+      "percentageOfPageLoad": 0.05578013,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/13"
     }
   },
@@ -2544,7 +2498,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02240393,
+      "percentageOfPageLoad": 0.02608046,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/218"
     }
   },
@@ -2591,7 +2545,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.121133,
+      "percentageOfPageLoad": 0.13903964,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/14"
     }
   },
@@ -2641,7 +2595,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00309038,
+      "percentageOfPageLoad": 0.00359008,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/183"
     }
   },
@@ -2650,13 +2604,6 @@
       "url": "https://wpt.fyi/results?q=feature:calc-size"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.22.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -2755,26 +2702,12 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00161002,
+      "percentageOfPageLoad": 0.0017328,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/234"
     }
   },
   "canvas": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.23.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.50.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
@@ -2792,7 +2725,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.45903706,
+      "percentageOfPageLoad": 0.45181979,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/200"
     }
   },
@@ -2812,7 +2745,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.33331649,
+      "percentageOfPageLoad": 0.33862308,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/201"
     }
   },
@@ -2833,7 +2766,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.33286987,
+      "percentageOfPageLoad": 0.33798372,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/202"
     }
   },
@@ -2863,7 +2796,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00029629,
+      "percentageOfPageLoad": 0.00038327,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/203"
     }
   },
@@ -2881,7 +2814,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00357652,
+      "percentageOfPageLoad": 0.00281883,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/204"
     }
   },
@@ -2895,7 +2828,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.03777221,
+      "percentageOfPageLoad": 0.03989261,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/205"
     }
   },
@@ -2919,7 +2852,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00070009,
+      "percentageOfPageLoad": 0.00062064,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/15"
     }
   },
@@ -2936,7 +2869,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00002958,
+      "percentageOfPageLoad": 0.00003053,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/91"
     }
   },
@@ -2953,7 +2886,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00009549,
+      "percentageOfPageLoad": 0.00009482,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/92"
     }
   },
@@ -2970,7 +2903,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00083461,
+      "percentageOfPageLoad": 0.00124797,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/93"
     }
   },
@@ -2987,7 +2920,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00011653,
+      "percentageOfPageLoad": 0.00014673,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/157"
     }
   },
@@ -3044,13 +2977,6 @@
       "url": "https://wpt.fyi/results?q=feature:cascade-layers"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.102.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -3139,7 +3065,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02916656,
+      "percentageOfPageLoad": 0.03314409,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/5"
     }
   },
@@ -3180,7 +3106,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.04589784,
+      "percentageOfPageLoad": 0.04801049,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/206"
     }
   },
@@ -3227,7 +3153,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02984193,
+      "percentageOfPageLoad": 0.03421536,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/133"
     }
   },
@@ -3278,7 +3204,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00301213,
+      "percentageOfPageLoad": 0.00283556,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/339"
     }
   },
@@ -3318,7 +3244,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.40545485,
+      "percentageOfPageLoad": 0.40512006,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/216"
     }
   },
@@ -3348,7 +3274,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00054624,
+      "percentageOfPageLoad": 0.00071223,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/215"
     }
   },
@@ -3380,7 +3306,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00001398,
+      "percentageOfPageLoad": 0.00002921,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/271"
     }
   },
@@ -3416,7 +3342,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00097735,
+      "percentageOfPageLoad": 0.00186818,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/273"
     }
   },
@@ -3442,7 +3368,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000148,
+      "percentageOfPageLoad": 0.00000227,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/272"
     }
   },
@@ -3468,7 +3394,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00002019,
+      "percentageOfPageLoad": 0.00003662,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/123"
     }
   },
@@ -3503,7 +3429,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00011137,
+      "percentageOfPageLoad": 0.00008559,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/259"
     }
   },
@@ -3620,7 +3546,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00926049,
+      "percentageOfPageLoad": 0.00936244,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/169"
     }
   },
@@ -3731,7 +3657,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.05004238,
+      "percentageOfPageLoad": 0.05740807,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/95"
     }
   },
@@ -3740,20 +3666,6 @@
       "url": "https://wpt.fyi/results?q=feature:color-scheme"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.1.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/accessibility/#accessibility_techniques",
-        "question": "accessibility",
-        "subQuestion": "accessibility_techniques",
-        "path": "dataAPI.surveys.state_of_html.html2025.accessibility.accessibility_techniques.combined.allEditions.1.buckets.16.groupedBuckets.0.groupedBuckets.1.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -3813,7 +3725,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.18056555,
+      "percentageOfPageLoad": 0.18068671,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/16"
     }
   },
@@ -3877,27 +3789,6 @@
   },
   "column-fill": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_missing_elements",
-        "question": "usage",
-        "subQuestion": "html_missing_elements",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_missing_elements.combined.allEditions.1.buckets.19.groupedBuckets.0.groupedBuckets.10.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.3.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.28.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -3978,7 +3869,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 6e-8,
+      "percentageOfPageLoad": 1.1e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/292"
     }
   },
@@ -4016,7 +3907,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00001516,
+      "percentageOfPageLoad": 0.00003725,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/314"
     }
   },
@@ -4056,7 +3947,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.09805041,
+      "percentageOfPageLoad": 0.08000703,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/315"
     }
   },
@@ -4073,7 +3964,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.18867807,
+      "percentageOfPageLoad": 0.20210513,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/1"
     }
   },
@@ -4107,7 +3998,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00133536,
+      "percentageOfPageLoad": 0.00230321,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/17"
     }
   },
@@ -4222,7 +4113,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.09855583,
+      "percentageOfPageLoad": 0.10091653,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/18"
     }
   },
@@ -4286,7 +4177,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00062094,
+      "percentageOfPageLoad": 0.00072348,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/132"
     }
   },
@@ -4324,7 +4215,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.07237207,
+      "percentageOfPageLoad": 0.0664151,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/21"
     }
   },
@@ -4409,20 +4300,6 @@
       "url": "https://wpt.fyi/results?q=feature:container-queries"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.88.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.12.entity"
-      },
       {
         "name": "State of HTML 2024",
         "url": "https://2024.stateofhtml.com/en-US/usage/#html_interoperability_features",
@@ -4532,7 +4409,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.11538062,
+      "percentageOfPageLoad": 0.12976321,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/19"
     }
   },
@@ -4541,13 +4418,6 @@
       "url": "https://wpt.fyi/results?q=feature:container-scroll-state-queries"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.56.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -4590,7 +4460,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00391932,
+      "percentageOfPageLoad": 0.00433185,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/280"
     }
   },
@@ -4599,13 +4469,6 @@
       "url": "https://wpt.fyi/results?q=feature:container-style-queries"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.49.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -4718,7 +4581,7 @@
       "votes": 1
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00407848,
+      "percentageOfPageLoad": 0.00439457,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/20"
     }
   },
@@ -4777,7 +4640,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.05892699,
+      "percentageOfPageLoad": 0.05585005,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/148"
     }
   },
@@ -4796,20 +4659,6 @@
       "url": "https://wpt.fyi/results?q=feature:contenteditable-plaintextonly"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.103.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.37.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
@@ -4878,19 +4727,12 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00008196,
+      "percentageOfPageLoad": 0.0000755,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/155"
     }
   },
   "contrast-color": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.2.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -5028,7 +4870,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.03858934,
+      "percentageOfPageLoad": 0.03888478,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/283"
     }
   },
@@ -5094,7 +4936,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00481265,
+      "percentageOfPageLoad": 0.00631576,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/149"
     }
   },
@@ -5111,7 +4953,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00445534,
+      "percentageOfPageLoad": 0.0034563,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/22"
     }
   },
@@ -5190,13 +5032,6 @@
         "question": "usage",
         "subQuestion": "html_interoperability_features",
         "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.2.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.8.entity"
       },
       {
         "name": "State of HTML 2024",
@@ -5325,7 +5160,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.11913793,
+      "percentageOfPageLoad": 0.11139061,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/232"
     }
   },
@@ -5361,24 +5196,10 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.23.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
         "question": "features",
         "subQuestion": "all_features",
         "path": "dataAPI.surveys.state_of_html.html2025.features.all_features.28.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/content/#content_pain_points",
-        "question": "content",
-        "subQuestion": "content_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.content.content_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.1.entity"
       },
       {
         "name": "State of HTML 2024",
@@ -5473,7 +5294,7 @@
       "votes": 1
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 5.4e-7,
+      "percentageOfPageLoad": 7.9e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/23"
     }
   },
@@ -5545,6 +5366,9 @@
     }
   },
   "cubic-bezier-easing": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:cubic-bezier-easing"
+    },
     "mdn-docs": [
       {
         "slug": "Web/CSS/Reference/Values/easing-function",
@@ -5612,14 +5436,7 @@
         "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
         "question": "usage",
         "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.80.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.6.entity"
+        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.7.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -5633,7 +5450,7 @@
         "url": "https://2025.stateofhtml.com/en-US/forms/#forms_pain_points",
         "question": "forms",
         "subQuestion": "forms_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.1.buckets.4.entity"
+        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.1.buckets.5.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -5700,7 +5517,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00010536,
+      "percentageOfPageLoad": 0.00011135,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/342"
     }
   },
@@ -5750,13 +5567,6 @@
       "url": "https://wpt.fyi/results?q=feature:datalist"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/forms/#forms_pain_points",
-        "question": "forms",
-        "subQuestion": "forms_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.0.buckets.15.groupedBuckets.0.groupedBuckets.0.groupedBuckets.5.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
@@ -5859,10 +5669,10 @@
     ],
     "developer-signals": {
       "url": "https://github.com/web-platform-dx/developer-signals/issues/51",
-      "votes": 0
+      "votes": 1
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01885728,
+      "percentageOfPageLoad": 0.02221376,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/84"
     }
   },
@@ -5919,38 +5729,10 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/web_components/#web_components_other_pain_points",
-        "question": "web_components",
-        "subQuestion": "web_components_other_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.web_components.web_components_other_pain_points.freeform.allEditions.0.buckets.19.groupedBuckets.0.groupedBuckets.1.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.65.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.45.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
         "question": "features",
         "subQuestion": "all_features",
         "path": "dataAPI.surveys.state_of_html.html2025.features.all_features.47.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/content/#content_pain_points",
-        "question": "content",
-        "subQuestion": "content_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.content.content_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.5.entity"
       },
       {
         "name": "State of HTML 2024",
@@ -6041,7 +5823,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00146307,
+      "percentageOfPageLoad": 0.00177165,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/24"
     }
   },
@@ -6280,13 +6062,6 @@
       },
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.36.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
         "question": "usage",
         "subQuestion": "html_functionality_features",
@@ -6392,7 +6167,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00217781,
+      "percentageOfPageLoad": 0.00254662,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/354"
     }
   },
@@ -6401,20 +6176,6 @@
       "url": "https://wpt.fyi/results?q=feature:details-name"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.105.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.31.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
@@ -6523,7 +6284,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00049293,
+      "percentageOfPageLoad": 0.0003854,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/114"
     }
   },
@@ -6557,7 +6318,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.07485377,
+      "percentageOfPageLoad": 0.06517269,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/102"
     }
   },
@@ -6592,7 +6353,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01002481,
+      "percentageOfPageLoad": 0.01006716,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/401"
     }
   },
@@ -6684,24 +6445,10 @@
       },
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/forms/#forms_pain_points",
-        "question": "forms",
-        "subQuestion": "forms_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.9.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
         "question": "features",
         "subQuestion": "all_features",
         "path": "dataAPI.surveys.state_of_html.html2025.features.all_features.9.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/accessibility/#accessibility_pain_points",
-        "question": "accessibility",
-        "subQuestion": "accessibility_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.accessibility.accessibility_pain_points.freeform.allEditions.1.buckets.19.groupedBuckets.0.groupedBuckets.5.entity"
       },
       {
         "name": "State of HTML 2024",
@@ -6826,7 +6573,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.09727762,
+      "percentageOfPageLoad": 0.08207059,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/25"
     }
   },
@@ -6837,38 +6584,10 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.108.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
         "question": "reading_list",
         "subQuestion": "reading_list",
         "path": "dataAPI.surveys.state_of_html.html2025.reading_list.reading_list.combined.allEditions.1.buckets.6.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points_interop_1",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points_interop_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points_interop_1.freeform.allEditions.0.buckets.13.groupedBuckets.0.groupedBuckets.27.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.18.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/forms/#forms_pain_points",
-        "question": "forms",
-        "subQuestion": "forms_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.23.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -6891,7 +6610,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00022124,
+      "percentageOfPageLoad": 0.00022664,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/350"
     }
   },
@@ -6921,7 +6640,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.06076164,
+      "percentageOfPageLoad": 0.0663446,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/85"
     }
   },
@@ -6985,7 +6704,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01246784,
+      "percentageOfPageLoad": 0.01305168,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/233"
     }
   },
@@ -7107,7 +6826,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.16282164,
+      "percentageOfPageLoad": 0.15520022,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/199"
     }
   },
@@ -7206,7 +6925,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.05078546,
+      "percentageOfPageLoad": 0.05023998,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/144"
     }
   },
@@ -7280,7 +6999,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00015333,
+      "percentageOfPageLoad": 0.00038858,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/26"
     }
   },
@@ -7393,7 +7112,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0383225,
+      "percentageOfPageLoad": 0.03472404,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/198"
     }
   },
@@ -7422,20 +7141,6 @@
       "url": "https://wpt.fyi/results?q=feature:edit-context"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.69.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.17.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
@@ -7495,7 +7200,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01007549,
+      "percentageOfPageLoad": 0.01980606,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/125"
     }
   },
@@ -7531,7 +7236,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 1e-7,
+      "percentageOfPageLoad": 2.1e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/321"
     }
   },
@@ -7795,7 +7500,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00018463,
+      "percentageOfPageLoad": 0.0007017,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/184"
     }
   },
@@ -7931,7 +7636,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00392002,
+      "percentageOfPageLoad": 0.0046497,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/381"
     }
   },
@@ -7949,7 +7654,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00359921,
+      "percentageOfPageLoad": 0.00425507,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/382"
     }
   },
@@ -7977,7 +7682,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00123631,
+      "percentageOfPageLoad": 0.00192649,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/383"
     }
   },
@@ -8018,7 +7723,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00002108,
+      "percentageOfPageLoad": 0.0000673,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/130"
     }
   },
@@ -8061,7 +7766,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0285007,
+      "percentageOfPageLoad": 0.02386427,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/247"
     }
   },
@@ -8111,7 +7816,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.04556299,
+      "percentageOfPageLoad": 0.03746484,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/284"
     }
   },
@@ -8249,7 +7954,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.32562676,
+      "percentageOfPageLoad": 0.30974468,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/268"
     }
   },
@@ -8270,7 +7975,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00001089,
+      "percentageOfPageLoad": 0.00001112,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/398"
     }
   },
@@ -8309,7 +8014,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.04472708,
+      "percentageOfPageLoad": 0.03732586,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/306"
     }
   },
@@ -8318,13 +8023,6 @@
       "url": "https://wpt.fyi/results?q=feature:field-sizing"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.106.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -8388,7 +8086,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00984396,
+      "percentageOfPageLoad": 0.01141709,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/113"
     }
   },
@@ -8462,7 +8160,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.06532593,
+      "percentageOfPageLoad": 0.06917112,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/185"
     }
   },
@@ -8599,7 +8297,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00003735,
+      "percentageOfPageLoad": 0.00004576,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/258"
     }
   },
@@ -8713,7 +8411,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.83661543,
+      "percentageOfPageLoad": 0.82726372,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/28"
     }
   },
@@ -8727,7 +8425,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.473981,
+      "percentageOfPageLoad": 0.455026,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/27"
     }
   },
@@ -8757,7 +8455,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01255522,
+      "percentageOfPageLoad": 0.01431726,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/298"
     }
   },
@@ -8794,27 +8492,6 @@
       "url": "https://wpt.fyi/results?q=feature:focus-visible"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.70.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.40.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/accessibility/#accessibility_techniques",
-        "question": "accessibility",
-        "subQuestion": "accessibility_techniques",
-        "path": "dataAPI.surveys.state_of_html.html2025.accessibility.accessibility_techniques.combined.allEditions.1.buckets.16.groupedBuckets.0.groupedBuckets.6.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -8853,7 +8530,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.52991485,
+      "percentageOfPageLoad": 0.53992518,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/29"
     }
   },
@@ -8934,7 +8611,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00053638,
+      "percentageOfPageLoad": 0.0005036,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/351"
     }
   },
@@ -9002,7 +8679,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.001828,
+      "percentageOfPageLoad": 0.00193,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/411"
     }
   },
@@ -9033,7 +8710,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.07839237,
+      "percentageOfPageLoad": 0.08784291,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/353"
     }
   },
@@ -9050,7 +8727,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01877504,
+      "percentageOfPageLoad": 0.0196034,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/30"
     }
   },
@@ -9082,7 +8759,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0003809,
+      "percentageOfPageLoad": 0.00043393,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/32"
     }
   },
@@ -9161,7 +8838,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01784671,
+      "percentageOfPageLoad": 0.01801934,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/220"
     }
   },
@@ -9198,7 +8875,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01546818,
+      "percentageOfPageLoad": 0.01558872,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/36"
     }
   },
@@ -9232,7 +8909,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00015259,
+      "percentageOfPageLoad": 0.00017538,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/33"
     }
   },
@@ -9249,7 +8926,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00040511,
+      "percentageOfPageLoad": 0.00038528,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/34"
     }
   },
@@ -9266,7 +8943,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00090975,
+      "percentageOfPageLoad": 0.00101944,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/35"
     }
   },
@@ -9313,7 +8990,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00312625,
+      "percentageOfPageLoad": 0.00350362,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/37"
     }
   },
@@ -9368,7 +9045,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00051152,
+      "percentageOfPageLoad": 0.00061283,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/285"
     }
   },
@@ -9430,7 +9107,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00299431,
+      "percentageOfPageLoad": 0.00306059,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/179"
     }
   },
@@ -9510,13 +9187,6 @@
     },
     "state-of-surveys": [
       {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/accessibility/#accessibility_techniques",
-        "question": "accessibility",
-        "subQuestion": "accessibility_techniques",
-        "path": "dataAPI.surveys.state_of_html.html2025.accessibility.accessibility_techniques.combined.allEditions.0.buckets.16.groupedBuckets.0.groupedBuckets.6.entity"
-      },
-      {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#css_interoperability_features",
         "question": "usage",
@@ -9575,7 +9245,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.311304,
+      "percentageOfPageLoad": 0.32746414,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/165"
     }
   },
@@ -9594,13 +9264,6 @@
       "url": "https://wpt.fyi/results?q=feature:form-associated-custom-elements"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.101.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
@@ -9763,7 +9426,7 @@
       "votes": 2
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00002601,
+      "percentageOfPageLoad": 0.00002805,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/310"
     }
   },
@@ -9797,22 +9460,6 @@
     "wpt": {
       "url": "https://wpt.fyi/results?q=feature:gamepad"
     },
-    "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.105.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/system_capabilities/#system_capabilities_pain_points",
-        "question": "system_capabilities",
-        "subQuestion": "system_capabilities_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.system_capabilities.system_capabilities_pain_points.freeform.allEditions.0.buckets.18.groupedBuckets.0.groupedBuckets.18.entity"
-      }
-    ],
     "mdn-docs": [
       {
         "slug": "Web/API/Gamepad_API",
@@ -9822,7 +9469,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.000012,
+      "percentageOfPageLoad": 0.0000088,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/103"
     }
   },
@@ -9927,22 +9574,6 @@
     "wpt": {
       "url": "https://wpt.fyi/results?q=feature:geolocation"
     },
-    "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.96.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.12.entity"
-      }
-    ],
     "standards-positions": [
       {
         "vendor": "mozilla",
@@ -10023,7 +9654,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00146333,
+      "percentageOfPageLoad": 0.00122008,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/286"
     }
   },
@@ -10138,7 +9769,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.03155334,
+      "percentageOfPageLoad": 0.03318035,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/178"
     }
   },
@@ -10157,27 +9788,6 @@
       "url": "https://wpt.fyi/results?q=feature:grid"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_missing_elements",
-        "question": "usage",
-        "subQuestion": "html_missing_elements",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_missing_elements.combined.allEditions.0.buckets.11.groupedBuckets.0.groupedBuckets.4.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.91.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.14.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -10299,7 +9909,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.39911351,
+      "percentageOfPageLoad": 0.3869954,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/38"
     }
   },
@@ -10430,13 +10040,6 @@
       "url": "https://wpt.fyi/results?q=feature:has"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.39.entity"
-      },
       {
         "name": "State of HTML 2024",
         "url": "https://2024.stateofhtml.com/en-US/usage/#html_interoperability_features",
@@ -10602,7 +10205,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.45090687,
+      "percentageOfPageLoad": 0.45286537,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/39"
     }
   },
@@ -10611,20 +10214,6 @@
       "url": "https://wpt.fyi/results?q=feature:has-slotted"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/web_components/#web_components_other_pain_points",
-        "question": "web_components",
-        "subQuestion": "web_components_other_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.web_components.web_components_other_pain_points.freeform.allEditions.0.buckets.19.groupedBuckets.0.groupedBuckets.32.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.79.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
@@ -10754,13 +10343,6 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.117.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
         "question": "reading_list",
         "subQuestion": "reading_list",
@@ -10801,7 +10383,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00215661,
+      "percentageOfPageLoad": 0.00162686,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/86"
     }
   },
@@ -10810,13 +10392,6 @@
       "url": "https://wpt.fyi/results?q=feature:highlight"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.59.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
@@ -10873,7 +10448,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0001849,
+      "percentageOfPageLoad": 0.00045119,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/269"
     }
   },
@@ -10987,13 +10562,6 @@
       "url": "https://wpt.fyi/results?q=feature:html-media-capture"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/system_capabilities/#system_capabilities_pain_points",
-        "question": "system_capabilities",
-        "subQuestion": "system_capabilities_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.system_capabilities.system_capabilities_pain_points.freeform.allEditions.0.buckets.18.groupedBuckets.0.groupedBuckets.6.entity"
-      },
       {
         "name": "State of HTML 2024",
         "url": "https://2024.stateofhtml.com/en-US/features/#reading_list",
@@ -11138,7 +10706,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.08424974,
+      "percentageOfPageLoad": 0.0907231,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/394"
     }
   },
@@ -11188,7 +10756,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.5016653,
+      "percentageOfPageLoad": 0.45867033,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/316"
     }
   },
@@ -11217,7 +10785,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00215891,
+      "percentageOfPageLoad": 0.00179732,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/172"
     }
   },
@@ -11234,7 +10802,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00238115,
+      "percentageOfPageLoad": 0.00331695,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/211"
     }
   },
@@ -11255,7 +10823,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00108621,
+      "percentageOfPageLoad": 0.00114004,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/212"
     }
   },
@@ -11272,7 +10840,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.11655961,
+      "percentageOfPageLoad": 0.11841244,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/40"
     }
   },
@@ -11306,7 +10874,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000225,
+      "percentageOfPageLoad": 0.00000228,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/159"
     }
   },
@@ -11331,7 +10899,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00019212,
+      "percentageOfPageLoad": 0.00036335,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/41"
     }
   },
@@ -11389,7 +10957,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0013166,
+      "percentageOfPageLoad": 0.0010126,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/311"
     }
   },
@@ -11427,7 +10995,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0001452,
+      "percentageOfPageLoad": 0.00019932,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/325"
     }
   },
@@ -11502,7 +11070,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00238893,
+      "percentageOfPageLoad": 0.00333082,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/167"
     }
   },
@@ -11580,7 +11148,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00376118,
+      "percentageOfPageLoad": 0.0032702,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/98"
     }
   },
@@ -11673,7 +11241,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00559418,
+      "percentageOfPageLoad": 0.00628898,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/42"
     }
   },
@@ -11735,7 +11303,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.15408442,
+      "percentageOfPageLoad": 0.14952862,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/43"
     }
   },
@@ -11744,20 +11312,6 @@
       "url": "https://wpt.fyi/results?q=feature:inert"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.19.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.42.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
@@ -11839,7 +11393,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02306045,
+      "percentageOfPageLoad": 0.02356773,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/128"
     }
   },
@@ -11928,7 +11482,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00078052,
+      "percentageOfPageLoad": 0.00072605,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/210"
     }
   },
@@ -11964,7 +11518,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00007526,
+      "percentageOfPageLoad": 0.00005338,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/263"
     }
   },
@@ -12005,7 +11559,7 @@
         "url": "https://2025.stateofhtml.com/en-US/forms/#forms_pain_points",
         "question": "forms",
         "subQuestion": "forms_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.0.buckets.15.groupedBuckets.0.groupedBuckets.0.groupedBuckets.14.entity"
+        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.0.buckets.0.nestedBuckets.9.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -12324,7 +11878,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00019886,
+      "percentageOfPageLoad": 0.00022062,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/293"
     }
   },
@@ -12359,7 +11913,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01769147,
+      "percentageOfPageLoad": 0.02575988,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/235"
     }
   },
@@ -12376,7 +11930,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.5588643,
+      "percentageOfPageLoad": 0.53612085,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/45"
     }
   },
@@ -12397,7 +11951,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.08775022,
+      "percentageOfPageLoad": 0.0901373,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/44"
     }
   },
@@ -12421,7 +11975,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01597806,
+      "percentageOfPageLoad": 0.01796086,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/328"
     }
   },
@@ -12435,7 +11989,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0000536,
+      "percentageOfPageLoad": 0.00005842,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/266"
     }
   },
@@ -12482,7 +12036,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0121521,
+      "percentageOfPageLoad": 0.01542065,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/244"
     }
   },
@@ -12508,13 +12062,6 @@
   },
   "intl-segmenter": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.114.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
@@ -12567,7 +12114,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0171178,
+      "percentageOfPageLoad": 0.01932087,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/129"
     }
   },
@@ -12597,31 +12144,10 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.98.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
         "question": "reading_list",
         "subQuestion": "reading_list",
         "path": "dataAPI.surveys.state_of_html.html2025.reading_list.reading_list.combined.allEditions.1.buckets.2.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points_interop_1",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points_interop_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points_interop_1.freeform.allEditions.0.buckets.13.groupedBuckets.0.groupedBuckets.14.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.9.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -12654,7 +12180,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.27192303,
+      "percentageOfPageLoad": 0.27695169,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/46"
     }
   },
@@ -12672,7 +12198,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0089803,
+      "percentageOfPageLoad": 0.00924144,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/270"
     }
   },
@@ -12731,7 +12257,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.03168426,
+      "percentageOfPageLoad": 0.03431695,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/225"
     }
   },
@@ -12811,7 +12337,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.26607058,
+      "percentageOfPageLoad": 0.29245152,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/47"
     }
   },
@@ -12849,7 +12375,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00623688,
+      "percentageOfPageLoad": 0.00722794,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/109"
     }
   },
@@ -12873,7 +12399,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00800268,
+      "percentageOfPageLoad": 0.00878499,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/110"
     }
   },
@@ -12904,7 +12430,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000932,
+      "percentageOfPageLoad": 0.00000735,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/396"
     }
   },
@@ -13008,7 +12534,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00006129,
+      "percentageOfPageLoad": 0.0000725,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/119"
     }
   },
@@ -13033,7 +12559,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.04470627,
+      "percentageOfPageLoad": 0.05082174,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/116"
     }
   },
@@ -13082,7 +12608,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00378279,
+      "percentageOfPageLoad": 0.00472437,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/171"
     }
   },
@@ -13211,7 +12737,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.42057571,
+      "percentageOfPageLoad": 0.40924066,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/277"
     }
   },
@@ -13262,7 +12788,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00889583,
+      "percentageOfPageLoad": 0.00886619,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/161"
     }
   },
@@ -13271,48 +12797,6 @@
       "url": "https://wpt.fyi/results?q=feature:light-dark"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.20.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/performance/#performance_pain_points",
-        "question": "performance",
-        "subQuestion": "performance_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.performance.performance_pain_points.freeform.allEditions.0.buckets.21.groupedBuckets.0.groupedBuckets.10.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points_limitations_1",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points_limitations_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points_limitations_1.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.21.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points.freeform.allEditions.0.buckets.21.groupedBuckets.1.groupedBuckets.14.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/forms/#forms_pain_points",
-        "question": "forms",
-        "subQuestion": "forms_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.42.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/content/#content_pain_points",
-        "question": "content",
-        "subQuestion": "content_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.content.content_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.32.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -13393,7 +12877,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00927269,
+      "percentageOfPageLoad": 0.00970595,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/337"
     }
   },
@@ -13410,19 +12894,12 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.05430173,
+      "percentageOfPageLoad": 0.05499495,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/335"
     }
   },
   "line-clamp": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.43.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -13560,7 +13037,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.12991037,
+      "percentageOfPageLoad": 0.13228418,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/186"
     }
   },
@@ -13614,7 +13091,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.11403152,
+      "percentageOfPageLoad": 0.10559624,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/340"
     }
   },
@@ -13720,13 +13197,6 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.95.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/performance/#performance_pain_points",
         "question": "performance",
         "subQuestion": "performance_pain_points",
@@ -13801,7 +13271,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000858,
+      "percentageOfPageLoad": 0.00001006,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/287"
     }
   },
@@ -13847,7 +13317,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.20772905,
+      "percentageOfPageLoad": 0.21295704,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/378"
     }
   },
@@ -13856,13 +13326,6 @@
       "url": "https://wpt.fyi/results?q=feature:logical-properties"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.3.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -13936,7 +13399,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.33224313,
+      "percentageOfPageLoad": 0.34203344,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/168"
     }
   },
@@ -13971,7 +13434,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.13225267,
+      "percentageOfPageLoad": 0.14496695,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/236"
     }
   },
@@ -14072,7 +13535,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.21810234,
+      "percentageOfPageLoad": 0.2123733,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/302"
     }
   },
@@ -14148,7 +13611,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.10409202,
+      "percentageOfPageLoad": 0.1095417,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/197"
     }
   },
@@ -14189,7 +13652,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.34828763,
+      "percentageOfPageLoad": 0.34672865,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/101"
     }
   },
@@ -14198,27 +13661,6 @@
       "url": "https://wpt.fyi/results?q=feature:masonry"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_missing_elements",
-        "question": "usage",
-        "subQuestion": "html_missing_elements",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_missing_elements.combined.allEditions.0.buckets.11.groupedBuckets.0.groupedBuckets.17.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.71.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.55.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#css_missing_features",
@@ -14322,7 +13764,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00601775,
+      "percentageOfPageLoad": 0.00643232,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/90"
     }
   },
@@ -14343,7 +13785,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00003749,
+      "percentageOfPageLoad": 0.00004216,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/288"
     }
   },
@@ -14383,7 +13825,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.06923065,
+      "percentageOfPageLoad": 0.06114012,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/289"
     }
   },
@@ -14467,7 +13909,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.07588503,
+      "percentageOfPageLoad": 0.09059821,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/145"
     }
   },
@@ -14496,7 +13938,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02926221,
+      "percentageOfPageLoad": 0.02545773,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/48"
     }
   },
@@ -14593,7 +14035,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000203,
+      "percentageOfPageLoad": 0.00000207,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/349"
     }
   },
@@ -14629,13 +14071,6 @@
       "url": "https://wpt.fyi/results?q=feature:min-max-clamp"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.100.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -14917,7 +14352,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02079877,
+      "percentageOfPageLoad": 0.02565238,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/187"
     }
   },
@@ -15027,7 +14462,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00384077,
+      "percentageOfPageLoad": 0.00421151,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/188"
     }
   },
@@ -15065,13 +14500,6 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.71.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
         "question": "features",
         "subQuestion": "all_features",
@@ -15103,7 +14531,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000244,
+      "percentageOfPageLoad": 0.00000399,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/229"
     }
   },
@@ -15212,7 +14640,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00075889,
+      "percentageOfPageLoad": 0.00076668,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/89"
     }
   },
@@ -15244,27 +14672,6 @@
       "url": "https://wpt.fyi/results?q=feature:nesting"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_missing_elements",
-        "question": "usage",
-        "subQuestion": "html_missing_elements",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_missing_elements.combined.allEditions.0.buckets.11.groupedBuckets.0.groupedBuckets.25.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.0.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.25.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -15415,7 +14822,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.09353892,
+      "percentageOfPageLoad": 0.09799048,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/163"
     }
   },
@@ -15462,7 +14869,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00049307,
+      "percentageOfPageLoad": 0.0005679,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/265"
     }
   },
@@ -15479,7 +14886,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.83347132,
+      "percentageOfPageLoad": 0.83571969,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/343"
     }
   },
@@ -15589,7 +14996,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.07506439,
+      "percentageOfPageLoad": 0.07083814,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/164"
     }
   },
@@ -15625,7 +15032,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.35537636,
+      "percentageOfPageLoad": 0.37012982,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/379"
     }
   },
@@ -15743,7 +15150,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0003198,
+      "percentageOfPageLoad": 0.0003484,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/156"
     }
   },
@@ -15775,7 +15182,7 @@
       "votes": 1
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 6.8e-7,
+      "percentageOfPageLoad": 6.4e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/348"
     }
   },
@@ -15799,7 +15206,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00901079,
+      "percentageOfPageLoad": 0.00766451,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/384"
     }
   },
@@ -15880,7 +15287,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.05603094,
+      "percentageOfPageLoad": 0.05340715,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/151"
     }
   },
@@ -15904,7 +15311,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.07298481,
+      "percentageOfPageLoad": 0.08095159,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/49"
     }
   },
@@ -15913,13 +15320,6 @@
       "url": "https://wpt.fyi/results?q=feature:oklab"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.69.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -16004,7 +15404,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02098541,
+      "percentageOfPageLoad": 0.02398175,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/170"
     }
   },
@@ -16133,7 +15533,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00352447,
+      "percentageOfPageLoad": 0.00322333,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/50"
     }
   },
@@ -16150,7 +15550,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.779383,
+      "percentageOfPageLoad": 0.77960209,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/189"
     }
   },
@@ -16211,7 +15611,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00293086,
+      "percentageOfPageLoad": 0.00302176,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/190"
     }
   },
@@ -16248,7 +15648,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.19101949,
+      "percentageOfPageLoad": 0.18805555,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/336"
     }
   },
@@ -16306,7 +15706,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.15587225,
+      "percentageOfPageLoad": 0.15488252,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/112"
     }
   },
@@ -16351,7 +15751,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00039107,
+      "percentageOfPageLoad": 0.00047078,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/134"
     }
   },
@@ -16536,7 +15936,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00829013,
+      "percentageOfPageLoad": 0.01513444,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/219"
     }
   },
@@ -16572,13 +15972,6 @@
   "page-setup": {
     "state-of-surveys": [
       {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.45.entity"
-      },
-      {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#css_interoperability_features",
         "question": "usage",
@@ -16612,15 +16005,6 @@
     ]
   },
   "page-visibility": {
-    "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.14.entity"
-      }
-    ],
     "mdn-docs": [
       {
         "slug": "Web/API/Page_Visibility_API",
@@ -16647,7 +16031,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00478808,
+      "percentageOfPageLoad": 0.00663191,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/237"
     }
   },
@@ -16690,7 +16074,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00776562,
+      "percentageOfPageLoad": 0.00751018,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/126"
     }
   },
@@ -16750,7 +16134,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00017509,
+      "percentageOfPageLoad": 0.00019679,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/122"
     }
   },
@@ -16844,13 +16228,6 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/system_capabilities/#system_capabilities_pain_points",
-        "question": "system_capabilities",
-        "subQuestion": "system_capabilities_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.system_capabilities.system_capabilities_pain_points.freeform.allEditions.0.buckets.18.groupedBuckets.0.groupedBuckets.9.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
         "question": "features",
         "subQuestion": "all_features",
@@ -16883,7 +16260,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.05869193,
+      "percentageOfPageLoad": 0.05660195,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/257"
     }
   },
@@ -17014,7 +16391,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00016158,
+      "percentageOfPageLoad": 0.00012689,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/51"
     }
   },
@@ -17112,7 +16489,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00031722,
+      "percentageOfPageLoad": 0.00039242,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/52"
     }
   },
@@ -17121,13 +16498,6 @@
       "url": "https://wpt.fyi/results?q=feature:popover"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/web_components/#web_components_other_pain_points",
-        "question": "web_components",
-        "subQuestion": "web_components_other_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.web_components.web_components_other_pain_points.freeform.allEditions.0.buckets.19.groupedBuckets.0.groupedBuckets.40.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/usage/#html_styling_issues",
@@ -17169,13 +16539,6 @@
         "question": "interactivity",
         "subQuestion": "interactivity_pain_points",
         "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points.freeform.allEditions.0.buckets.3.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/forms/#forms_pain_points",
-        "question": "forms",
-        "subQuestion": "forms_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.2.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -17300,26 +16663,12 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01916081,
+      "percentageOfPageLoad": 0.01975961,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/374"
     }
   },
   "popover-hint": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.80.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.43.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
@@ -17355,7 +16704,7 @@
       "votes": 1
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00002029,
+      "percentageOfPageLoad": 0.0000221,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/296"
     }
   },
@@ -17412,24 +16761,10 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.89.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/accessibility/#accessibility_techniques",
         "question": "accessibility",
         "subQuestion": "accessibility_techniques",
         "path": "dataAPI.surveys.state_of_html.html2025.accessibility.accessibility_techniques.combined.allEditions.0.buckets.12.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/accessibility/#accessibility_disabilities",
-        "question": "accessibility",
-        "subQuestion": "accessibility_disabilities",
-        "path": "dataAPI.surveys.state_of_html.html2025.accessibility.accessibility_disabilities.combined.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.2.entity"
       },
       {
         "name": "State of HTML 2024",
@@ -17577,19 +16912,12 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.23265432,
+      "percentageOfPageLoad": 0.22675692,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/174"
     }
   },
   "prefers-reduced-data": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/accessibility/#accessibility_techniques",
-        "question": "accessibility",
-        "subQuestion": "accessibility_techniques",
-        "path": "dataAPI.surveys.state_of_html.html2025.accessibility.accessibility_techniques.combined.allEditions.1.buckets.16.groupedBuckets.0.groupedBuckets.3.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#css_interoperability_features",
@@ -17630,13 +16958,6 @@
   },
   "prefers-reduced-motion": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.27.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/accessibility/#accessibility_techniques",
@@ -17738,7 +17059,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02614019,
+      "percentageOfPageLoad": 0.02512609,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/175"
     }
   },
@@ -17838,7 +17159,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00021207,
+      "percentageOfPageLoad": 0.00019126,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/249"
     }
   },
@@ -17865,7 +17186,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02541858,
+      "percentageOfPageLoad": 0.02871994,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/330"
     }
   },
@@ -17939,7 +17260,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00062326,
+      "percentageOfPageLoad": 0.0008496,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/278"
     }
   },
@@ -18014,7 +17335,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02348631,
+      "percentageOfPageLoad": 0.02580677,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/226"
     }
   },
@@ -18054,7 +17375,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.03956911,
+      "percentageOfPageLoad": 0.03909907,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/251"
     }
   },
@@ -18068,7 +17389,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01754403,
+      "percentageOfPageLoad": 0.01888359,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/240"
     }
   },
@@ -18151,7 +17472,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.09207711,
+      "percentageOfPageLoad": 0.08756036,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/213"
     }
   },
@@ -18172,7 +17493,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00001441,
+      "percentageOfPageLoad": 0.00002908,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/158"
     }
   },
@@ -18193,7 +17514,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 7.1e-7,
+      "percentageOfPageLoad": 9e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/207"
     }
   },
@@ -18241,7 +17562,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00009613,
+      "percentageOfPageLoad": 0.00028881,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/400"
     }
   },
@@ -18290,7 +17611,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00032877,
+      "percentageOfPageLoad": 0.00037636,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/313"
     }
   },
@@ -18323,7 +17644,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.33452075,
+      "percentageOfPageLoad": 0.34355991,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/260"
     }
   },
@@ -18347,7 +17668,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0032069,
+      "percentageOfPageLoad": 0.00392776,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/392"
     }
   },
@@ -18361,7 +17682,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01124752,
+      "percentageOfPageLoad": 0.01231536,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/297"
     }
   },
@@ -18405,7 +17726,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.07023516,
+      "percentageOfPageLoad": 0.06891551,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/395"
     }
   },
@@ -18423,7 +17744,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00001176,
+      "percentageOfPageLoad": 0.00001955,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/322"
     }
   },
@@ -18516,7 +17837,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.06348892,
+      "percentageOfPageLoad": 0.07099357,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/146"
     }
   },
@@ -18557,13 +17878,6 @@
       "url": "https://wpt.fyi/results?q=feature:relative-color"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.5.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -18659,7 +17973,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.03385826,
+      "percentageOfPageLoad": 0.03187662,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/53"
     }
   },
@@ -18700,7 +18014,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00266557,
+      "percentageOfPageLoad": 0.00229338,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/255"
     }
   },
@@ -18729,7 +18043,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.22964832,
+      "percentageOfPageLoad": 0.24288385,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/410"
     }
   },
@@ -18743,7 +18057,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.62096831,
+      "percentageOfPageLoad": 0.61675471,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/323"
     }
   },
@@ -18800,7 +18114,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00689484,
+      "percentageOfPageLoad": 0.00679226,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/154"
     }
   },
@@ -18815,20 +18129,6 @@
         "question": "reading_list",
         "subQuestion": "reading_list",
         "path": "dataAPI.surveys.state_of_html.html2025.reading_list.reading_list.combined.allEditions.1.buckets.14.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points_interop_1",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points_interop_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points_interop_1.freeform.allEditions.0.buckets.13.groupedBuckets.0.groupedBuckets.39.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.25.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -18847,7 +18147,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 4.8e-7,
+      "percentageOfPageLoad": 1.9e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/333"
     }
   },
@@ -18868,7 +18168,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.46646459,
+      "percentageOfPageLoad": 0.45516172,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/338"
     }
   },
@@ -18888,7 +18188,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000216,
+      "percentageOfPageLoad": 0.00000302,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/221"
     }
   },
@@ -19019,7 +18319,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.02349338,
+      "percentageOfPageLoad": 0.02573042,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/173"
     }
   },
@@ -19124,7 +18424,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000997,
+      "percentageOfPageLoad": 0.00001273,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/162"
     }
   },
@@ -19179,7 +18479,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00422707,
+      "percentageOfPageLoad": 0.00596639,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/176"
     }
   },
@@ -19206,7 +18506,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00205374,
+      "percentageOfPageLoad": 0.00192762,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/208"
     }
   },
@@ -19237,7 +18537,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00236592,
+      "percentageOfPageLoad": 0.00232012,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/209"
     }
   },
@@ -19322,7 +18622,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.10117189,
+      "percentageOfPageLoad": 0.09175853,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/118"
     }
   },
@@ -19331,20 +18631,6 @@
       "url": "https://wpt.fyi/results?q=feature:scope"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/user_info/#disability_status",
-        "question": "user_info",
-        "subQuestion": "disability_status",
-        "path": "dataAPI.surveys.state_of_html.html2025.user_info.disability_status.combined.allEditions.0.buckets.6.groupedBuckets.0.groupedBuckets.8.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.68.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/features/#reading_list",
@@ -19408,7 +18694,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00103625,
+      "percentageOfPageLoad": 0.00108172,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/54"
     }
   },
@@ -19520,7 +18806,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01603145,
+      "percentageOfPageLoad": 0.01369942,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/104"
     }
   },
@@ -19547,7 +18833,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00643584,
+      "percentageOfPageLoad": 0.00646969,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/344"
     }
   },
@@ -19631,7 +18917,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00004325,
+      "percentageOfPageLoad": 0.00004344,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/294"
     }
   },
@@ -19766,7 +19052,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0132323,
+      "percentageOfPageLoad": 0.01430025,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/230"
     }
   },
@@ -19801,7 +19087,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00023179,
+      "percentageOfPageLoad": 0.00025725,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/319"
     }
   },
@@ -19820,20 +19106,6 @@
   },
   "scroll-markers": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.5.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.26.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -19902,7 +19174,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00030399,
+      "percentageOfPageLoad": 0.0003379,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/295"
     }
   },
@@ -19911,20 +19183,6 @@
       "url": "https://wpt.fyi/results?q=feature:scroll-snap"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.46.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.10.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -19996,7 +19254,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.16902239,
+      "percentageOfPageLoad": 0.15477793,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/59"
     }
   },
@@ -20037,7 +19295,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00024035,
+      "percentageOfPageLoad": 0.00051726,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/228"
     }
   },
@@ -20062,7 +19320,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00094365,
+      "percentageOfPageLoad": 0.00084824,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/60"
     }
   },
@@ -20091,7 +19349,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.14042902,
+      "percentageOfPageLoad": 0.15384887,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/55"
     }
   },
@@ -20100,13 +19358,6 @@
       "url": "https://wpt.fyi/results?q=feature:scrollbar-gutter"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.16.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -20187,7 +19438,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.11507084,
+      "percentageOfPageLoad": 0.11673331,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/56"
     }
   },
@@ -20219,7 +19470,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.39241545,
+      "percentageOfPageLoad": 0.37690618,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/57"
     }
   },
@@ -20255,7 +19506,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.2503975,
+      "percentageOfPageLoad": 0.23559162,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/58"
     }
   },
@@ -20264,13 +19515,6 @@
       "url": "https://wpt.fyi/results?q=feature:search"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.13.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
@@ -20345,7 +19589,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00215436,
+      "percentageOfPageLoad": 0.00219213,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/120"
     }
   },
@@ -20467,7 +19711,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00001201,
+      "percentageOfPageLoad": 0.00001354,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/107"
     }
   },
@@ -20618,7 +19862,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.04732338,
+      "percentageOfPageLoad": 0.04953127,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/227"
     }
   },
@@ -20668,66 +19912,10 @@
       },
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.115.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.27.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/performance/#performance_pain_points",
-        "question": "performance",
-        "subQuestion": "performance_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.performance.performance_pain_points.freeform.allEditions.0.buckets.21.groupedBuckets.0.groupedBuckets.42.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points_interop_1",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points_interop_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points_interop_1.freeform.allEditions.0.buckets.13.groupedBuckets.0.groupedBuckets.9.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.6.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/forms/#forms_pain_points",
-        "question": "forms",
-        "subQuestion": "forms_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.forms.forms_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.16.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
         "question": "features",
         "subQuestion": "all_features",
         "path": "dataAPI.surveys.state_of_html.html2025.features.all_features.46.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/content/#content_pain_points",
-        "question": "content",
-        "subQuestion": "content_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.content.content_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.0.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/accessibility/#accessibility_pain_points",
-        "question": "accessibility",
-        "subQuestion": "accessibility_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.accessibility.accessibility_pain_points.freeform.allEditions.1.buckets.19.groupedBuckets.0.groupedBuckets.13.entity"
       },
       {
         "name": "State of HTML 2024",
@@ -20918,21 +20106,7 @@
         "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
         "question": "usage",
         "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.28.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.2.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/system_capabilities/#system_capabilities_pain_points",
-        "question": "system_capabilities",
-        "subQuestion": "system_capabilities_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.system_capabilities.system_capabilities_pain_points.freeform.allEditions.0.buckets.18.groupedBuckets.0.groupedBuckets.1.entity"
+        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.19.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -21093,13 +20267,6 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.38.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
         "question": "reading_list",
         "subQuestion": "reading_list",
@@ -21168,7 +20335,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00001271,
+      "percentageOfPageLoad": 0.00001498,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/61"
     }
   },
@@ -21203,7 +20370,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000125,
+      "percentageOfPageLoad": 0.00000119,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/127"
     }
   },
@@ -21212,13 +20379,6 @@
       "url": "https://wpt.fyi/results?q=feature:sibling-count"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.31.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -21306,38 +20466,10 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.103.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
         "question": "reading_list",
         "subQuestion": "reading_list",
         "path": "dataAPI.surveys.state_of_html.html2025.reading_list.reading_list.combined.allEditions.1.buckets.12.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/performance/#performance_pain_points",
-        "question": "performance",
-        "subQuestion": "performance_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.performance.performance_pain_points.freeform.allEditions.0.buckets.21.groupedBuckets.0.groupedBuckets.41.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points_interop_1",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points_interop_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points_interop_1.freeform.allEditions.0.buckets.12.groupedBuckets.0.groupedBuckets.23.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points.freeform.allEditions.0.buckets.21.groupedBuckets.1.groupedBuckets.27.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -21360,7 +20492,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00839987,
+      "percentageOfPageLoad": 0.00748208,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/346"
     }
   },
@@ -21397,7 +20529,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.58991066,
+      "percentageOfPageLoad": 0.61305736,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/62"
     }
   },
@@ -21464,7 +20596,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000643,
+      "percentageOfPageLoad": 0.00000878,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/100"
     }
   },
@@ -21559,24 +20691,10 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.32.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#reading_list",
         "question": "reading_list",
         "subQuestion": "reading_list",
         "path": "dataAPI.surveys.state_of_html.html2025.reading_list.reading_list.combined.allEditions.1.buckets.11.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/performance/#performance_pain_points",
-        "question": "performance",
-        "subQuestion": "performance_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.performance.performance_pain_points.freeform.allEditions.0.buckets.21.groupedBuckets.0.groupedBuckets.45.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -21609,7 +20727,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.12418973,
+      "percentageOfPageLoad": 0.11466984,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/317"
     }
   },
@@ -21623,21 +20741,7 @@
         "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
         "question": "usage",
         "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.84.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.1.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/system_capabilities/#system_capabilities_pain_points",
-        "question": "system_capabilities",
-        "subQuestion": "system_capabilities_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.system_capabilities.system_capabilities_pain_points.freeform.allEditions.0.buckets.18.groupedBuckets.0.groupedBuckets.10.entity"
+        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.12.entity"
       },
       {
         "name": "State of HTML 2025",
@@ -21668,7 +20772,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00031732,
+      "percentageOfPageLoad": 0.00070379,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/63"
     }
   },
@@ -21757,7 +20861,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00029893,
+      "percentageOfPageLoad": 0.00055836,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/64"
     }
   },
@@ -21794,7 +20898,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00483953,
+      "percentageOfPageLoad": 0.00633726,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/192"
     }
   },
@@ -21868,7 +20972,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01788349,
+      "percentageOfPageLoad": 0.02114979,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/143"
     }
   },
@@ -21885,7 +20989,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00124191,
+      "percentageOfPageLoad": 0.00135966,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/329"
     }
   },
@@ -21900,6 +21004,9 @@
     ]
   },
   "steps-easing": {
+    "wpt": {
+      "url": "https://wpt.fyi/results?q=feature:steps-easing"
+    },
     "mdn-docs": [
       {
         "slug": "Web/CSS/Reference/Values/easing-function",
@@ -22020,7 +21127,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.03104842,
+      "percentageOfPageLoad": 0.02984979,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/65"
     }
   },
@@ -22047,7 +21154,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00073192,
+      "percentageOfPageLoad": 0.00136378,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/66"
     }
   },
@@ -22230,7 +21337,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.31034448,
+      "percentageOfPageLoad": 0.31287594,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/252"
     }
   },
@@ -22282,7 +21389,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.07420863,
+      "percentageOfPageLoad": 0.07070605,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/253"
     }
   },
@@ -22319,7 +21426,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.22022167,
+      "percentageOfPageLoad": 0.22610124,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/99"
     }
   },
@@ -22364,20 +21471,6 @@
       "url": "https://wpt.fyi/results?q=feature:subgrid"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.10.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.2.entity"
-      },
       {
         "name": "State of HTML 2024",
         "url": "https://2024.stateofhtml.com/en-US/usage/#html_interoperability_features",
@@ -22495,7 +21588,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00314536,
+      "percentageOfPageLoad": 0.00385613,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/4"
     }
   },
@@ -22959,7 +22052,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00053985,
+      "percentageOfPageLoad": 0.00055078,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/67"
     }
   },
@@ -22978,13 +22071,6 @@
       "url": "https://wpt.fyi/results?q=feature:template"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.40.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
@@ -23052,7 +22138,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.28689993,
+      "percentageOfPageLoad": 0.29493795,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/68"
     }
   },
@@ -23073,14 +22159,7 @@
         "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
         "question": "usage",
         "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.62.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.49.entity"
+        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.18.entity"
       }
     ],
     "standards-positions": [
@@ -23101,7 +22180,7 @@
     ],
     "developer-signals": {
       "url": "https://github.com/web-platform-dx/developer-signals/issues/291",
-      "votes": 1
+      "votes": 3
     }
   },
   "text-align": {
@@ -23163,7 +22242,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00451344,
+      "percentageOfPageLoad": 0.00494146,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/318"
     }
   },
@@ -23231,7 +22310,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00252917,
+      "percentageOfPageLoad": 0.0034569,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/180"
     }
   },
@@ -23258,7 +22337,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.36505055,
+      "percentageOfPageLoad": 0.37003894,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/69"
     }
   },
@@ -23376,7 +22455,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00513997,
+      "percentageOfPageLoad": 0.01718365,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/70"
     }
   },
@@ -23429,7 +22508,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.15389349,
+      "percentageOfPageLoad": 0.14934765,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/331"
     }
   },
@@ -23469,7 +22548,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.20478444,
+      "percentageOfPageLoad": 0.20896197,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/181"
     }
   },
@@ -23565,7 +22644,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01784223,
+      "percentageOfPageLoad": 0.01752383,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/71"
     }
   },
@@ -23674,7 +22753,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01281941,
+      "percentageOfPageLoad": 0.01500522,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/72"
     }
   },
@@ -23722,7 +22801,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00118972,
+      "percentageOfPageLoad": 0.00102687,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/182"
     }
   },
@@ -23769,7 +22848,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0013298,
+      "percentageOfPageLoad": 0.00217935,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/355"
     }
   },
@@ -23803,7 +22882,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00969062,
+      "percentageOfPageLoad": 0.00921092,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/376"
     }
   },
@@ -23856,7 +22935,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.000631,
+      "percentageOfPageLoad": 0.0001926,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/241"
     }
   },
@@ -23877,7 +22956,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00570752,
+      "percentageOfPageLoad": 0.00609322,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/399"
     }
   },
@@ -23894,7 +22973,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.03879521,
+      "percentageOfPageLoad": 0.0428621,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/194"
     }
   },
@@ -23969,13 +23048,6 @@
       "url": "https://wpt.fyi/results?q=feature:transition-behavior"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.56.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
@@ -24084,7 +23156,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00589106,
+      "percentageOfPageLoad": 0.00662611,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/73"
     }
   },
@@ -24194,7 +23266,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00333141,
+      "percentageOfPageLoad": 0.00304166,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/177"
     }
   },
@@ -24244,7 +23316,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00463449,
+      "percentageOfPageLoad": 0.00390604,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/111"
     }
   },
@@ -24388,7 +23460,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.76992987,
+      "percentageOfPageLoad": 0.74497157,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/341"
     }
   },
@@ -24414,7 +23486,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01081075,
+      "percentageOfPageLoad": 0.01156749,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/334"
     }
   },
@@ -24451,7 +23523,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00726416,
+      "percentageOfPageLoad": 0.00673209,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/195"
     }
   },
@@ -24511,7 +23583,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.05275539,
+      "percentageOfPageLoad": 0.05267291,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/261"
     }
   },
@@ -24519,15 +23591,6 @@
     "wpt": {
       "url": "https://wpt.fyi/results?q=feature:urlpattern"
     },
-    "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.113.entity"
-      }
-    ],
     "standards-positions": [
       {
         "vendor": "mozilla",
@@ -24558,7 +23621,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01979115,
+      "percentageOfPageLoad": 0.02063232,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/326"
     }
   },
@@ -24641,7 +23704,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00127708,
+      "percentageOfPageLoad": 0.001219,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/75"
     }
   },
@@ -24701,7 +23764,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00025458,
+      "percentageOfPageLoad": 0.00029469,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/256"
     }
   },
@@ -24797,7 +23860,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00067708,
+      "percentageOfPageLoad": 0.00074192,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/245"
     }
   },
@@ -24835,7 +23898,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00676904,
+      "percentageOfPageLoad": 0.00561768,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/2"
     }
   },
@@ -24880,13 +23943,6 @@
     },
     "state-of-surveys": [
       {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.37.entity"
-      },
-      {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#favorite_new_features",
         "question": "usage",
@@ -24923,7 +23979,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.1281232,
+      "percentageOfPageLoad": 0.13658094,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/250"
     }
   },
@@ -24982,7 +24038,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00372266,
+      "percentageOfPageLoad": 0.00383183,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/264"
     }
   },
@@ -25029,64 +24085,6 @@
     ]
   },
   "wasm": {
-    "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.90.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.16.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/performance/#performance_pain_points",
-        "question": "performance",
-        "subQuestion": "performance_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.performance.performance_pain_points.freeform.allEditions.0.buckets.21.groupedBuckets.0.groupedBuckets.13.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points_interop_1",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points_interop_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points_interop_1.freeform.allEditions.0.buckets.13.groupedBuckets.0.groupedBuckets.10.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/features/interactivity/#interactivity_pain_points",
-        "question": "interactivity",
-        "subQuestion": "interactivity_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.interactivity.interactivity_pain_points.freeform.allEditions.1.buckets.21.groupedBuckets.1.groupedBuckets.34.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points_limitations_1",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points_limitations_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points_limitations_1.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.25.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points_interop_1",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points_interop_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points_interop_1.freeform.allEditions.0.buckets.12.groupedBuckets.0.groupedBuckets.24.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points.freeform.allEditions.0.buckets.21.groupedBuckets.1.groupedBuckets.17.entity"
-      }
-    ],
     "mdn-docs": [
       {
         "slug": "WebAssembly",
@@ -25101,7 +24099,7 @@
       "url": "https://wpt.fyi/results?q=feature:wasm-bulk-memory"
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01368142,
+      "percentageOfPageLoad": 0.01569833,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/369"
     }
   },
@@ -25165,7 +24163,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00298533,
+      "percentageOfPageLoad": 0.00497137,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/356"
     }
   },
@@ -25175,13 +24173,13 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 7e-8,
+      "percentageOfPageLoad": 5e-8,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/367"
     }
   },
   "wasm-garbage-collection": {
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00265274,
+      "percentageOfPageLoad": 0.00445421,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/358"
     }
   },
@@ -25194,7 +24192,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 6.7e-7,
+      "percentageOfPageLoad": 0.00000131,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/366"
     }
   },
@@ -25215,37 +24213,37 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 9e-8,
+      "percentageOfPageLoad": 6.2e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/359"
     }
   },
   "wasm-multi-value": {
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00184159,
+      "percentageOfPageLoad": 0.0017642,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/368"
     }
   },
   "wasm-mutable-globals": {
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00015465,
+      "percentageOfPageLoad": 0.00024767,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/370"
     }
   },
   "wasm-non-trapping-float-to-int": {
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00841788,
+      "percentageOfPageLoad": 0.011284,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/371"
     }
   },
   "wasm-reference-types": {
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00433319,
+      "percentageOfPageLoad": 0.00642224,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/360"
     }
   },
   "wasm-sign-extension-operators": {
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0241844,
+      "percentageOfPageLoad": 0.02831676,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/372"
     }
   },
@@ -25262,7 +24260,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00115457,
+      "percentageOfPageLoad": 0.00187293,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/347"
     }
   },
@@ -25286,7 +24284,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00027026,
+      "percentageOfPageLoad": 0.00020938,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/361"
     }
   },
@@ -25303,25 +24301,25 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00264999,
+      "percentageOfPageLoad": 0.00445024,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/364"
     }
   },
   "wasm-tail-call-optimization": {
     "chrome-use-counters": {
-      "percentageOfPageLoad": 4.6e-7,
+      "percentageOfPageLoad": 4.8e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/362"
     }
   },
   "wasm-threads": {
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00042903,
+      "percentageOfPageLoad": 0.00132157,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/363"
     }
   },
   "wasm-typed-fun-refs": {
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00265129,
+      "percentageOfPageLoad": 0.00445206,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/365"
     }
   },
@@ -25351,7 +24349,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.13284372,
+      "percentageOfPageLoad": 0.14621275,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/254"
     }
   },
@@ -25379,15 +24377,6 @@
     "wpt": {
       "url": "https://wpt.fyi/results?q=feature:web-animations"
     },
-    "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.104.entity"
-      }
-    ],
     "mdn-docs": [
       {
         "slug": "Web/API/Web_Animations_API",
@@ -25397,7 +24386,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.13806087,
+      "percentageOfPageLoad": 0.13983344,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/231"
     }
   },
@@ -25414,7 +24403,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.03153938,
+      "percentageOfPageLoad": 0.0307432,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/150"
     }
   },
@@ -25462,7 +24451,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000115,
+      "percentageOfPageLoad": 0.00000639,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/105"
     }
   },
@@ -25507,7 +24496,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0356764,
+      "percentageOfPageLoad": 0.04246466,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/78"
     }
   },
@@ -25536,7 +24525,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00003643,
+      "percentageOfPageLoad": 0.00005941,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/153"
     }
   },
@@ -25545,13 +24534,6 @@
       "url": "https://wpt.fyi/results?q=feature:web-nfc"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.83.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
@@ -25577,7 +24559,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00001412,
+      "percentageOfPageLoad": 0.00001661,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/106"
     }
   },
@@ -25598,20 +24580,11 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00026687,
+      "percentageOfPageLoad": 0.00025515,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/248"
     }
   },
   "webauthn": {
-    "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.36.entity"
-      }
-    ],
     "standards-positions": [
       {
         "vendor": "mozilla",
@@ -25642,7 +24615,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000369,
+      "percentageOfPageLoad": 0.00000361,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/327"
     }
   },
@@ -25704,7 +24677,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00075224,
+      "percentageOfPageLoad": 0.00075954,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/76"
     }
   },
@@ -25749,31 +24722,24 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.81.entity"
-      },
-      {
-        "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points_limitations_1",
         "question": "graphics_multimedia",
         "subQuestion": "graphics_pain_points_limitations_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points_limitations_1.freeform.allEditions.0.buckets.13.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points_interop_1",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points_interop_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points_interop_1.freeform.allEditions.0.buckets.12.groupedBuckets.0.groupedBuckets.0.entity"
+        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points_limitations_1.freeform.allEditions.0.buckets.14.entity"
       },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points",
         "question": "graphics_multimedia",
         "subQuestion": "graphics_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points.freeform.allEditions.0.buckets.12.entity"
+        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points.freeform.allEditions.0.buckets.14.entity"
+      },
+      {
+        "name": "State of HTML 2025",
+        "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
+        "question": "features",
+        "subQuestion": "all_features",
+        "path": "dataAPI.surveys.state_of_html.html2025.features.all_features.24.entity"
       }
     ],
     "mdn-docs": [
@@ -25811,7 +24777,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0010409,
+      "percentageOfPageLoad": 0.00116291,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/385"
     }
   },
@@ -25867,7 +24833,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00220993,
+      "percentageOfPageLoad": 0.00221103,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/386"
     }
   },
@@ -25935,7 +24901,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00012483,
+      "percentageOfPageLoad": 0.00010369,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/387"
     }
   },
@@ -25977,7 +24943,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01023732,
+      "percentageOfPageLoad": 0.00948486,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/388"
     }
   },
@@ -25991,7 +24957,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00032058,
+      "percentageOfPageLoad": 0.00031342,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/389"
     }
   },
@@ -26035,7 +25001,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0006493,
+      "percentageOfPageLoad": 0.00077341,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/390"
     }
   },
@@ -26053,7 +25019,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00143587,
+      "percentageOfPageLoad": 0.0009968,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/391"
     }
   },
@@ -26082,7 +25048,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01994661,
+      "percentageOfPageLoad": 0.01866789,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/290"
     }
   },
@@ -26107,7 +25073,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000609,
+      "percentageOfPageLoad": 0.00000873,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/77"
     }
   },
@@ -26134,27 +25100,11 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.45299002,
+      "percentageOfPageLoad": 0.40595403,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/79"
     }
   },
   "webrtc": {
-    "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.21.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.1.buckets.9.groupedBuckets.0.groupedBuckets.52.entity"
-      }
-    ],
     "mdn-docs": [
       {
         "slug": "Web/API/WebRTC_API",
@@ -26242,15 +25192,6 @@
     "wpt": {
       "url": "https://wpt.fyi/results?q=feature:websockets"
     },
-    "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.73.entity"
-      }
-    ],
     "mdn-docs": [
       {
         "slug": "Web/API/WebSockets_API",
@@ -26291,7 +25232,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00000124,
+      "percentageOfPageLoad": 0.00000339,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/80"
     }
   },
@@ -26300,13 +25241,6 @@
       "url": "https://wpt.fyi/results?q=feature:webusb"
     },
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.86.entity"
-      },
       {
         "name": "State of HTML 2025",
         "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
@@ -26342,7 +25276,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00001106,
+      "percentageOfPageLoad": 0.00001495,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/81"
     }
   },
@@ -26369,7 +25303,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.06258985,
+      "percentageOfPageLoad": 0.05051204,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/82"
     }
   },
@@ -26448,7 +25382,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 2e-8,
+      "percentageOfPageLoad": 1e-8,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/402"
     }
   },
@@ -26538,31 +25472,10 @@
     "state-of-surveys": [
       {
         "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.26.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points_limitations_1",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points_limitations_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points_limitations_1.freeform.allEditions.0.buckets.14.groupedBuckets.0.groupedBuckets.27.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points_interop_1",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points_interop_1",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points_interop_1.freeform.allEditions.0.buckets.12.groupedBuckets.0.groupedBuckets.7.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/graphics_multimedia/#graphics_pain_points",
-        "question": "graphics_multimedia",
-        "subQuestion": "graphics_pain_points",
-        "path": "dataAPI.surveys.state_of_html.html2025.graphics_multimedia.graphics_pain_points.freeform.allEditions.0.buckets.21.groupedBuckets.1.groupedBuckets.6.entity"
+        "url": "https://2025.stateofhtml.com/en-US/features/#all_features",
+        "question": "features",
+        "subQuestion": "all_features",
+        "path": "dataAPI.surveys.state_of_html.html2025.features.all_features.22.entity"
       }
     ],
     "standards-positions": [
@@ -26609,7 +25522,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 2e-7,
+      "percentageOfPageLoad": 1.8e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/406"
     }
   },
@@ -26661,7 +25574,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 7e-8,
+      "percentageOfPageLoad": 6e-8,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/407"
     }
   },
@@ -26742,7 +25655,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 1.3e-7,
+      "percentageOfPageLoad": 1.2e-7,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/409"
     }
   },
@@ -26762,27 +25675,6 @@
   },
   "where": {
     "state-of-surveys": [
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_missing_elements",
-        "question": "usage",
-        "subQuestion": "html_missing_elements",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_missing_elements.combined.allEditions.0.buckets.11.groupedBuckets.0.groupedBuckets.15.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_interoperability_features",
-        "question": "usage",
-        "subQuestion": "html_interoperability_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_interoperability_features.freeform.allEditions.1.buckets.21.groupedBuckets.0.groupedBuckets.61.entity"
-      },
-      {
-        "name": "State of HTML 2025",
-        "url": "https://2025.stateofhtml.com/en-US/usage/#html_functionality_features",
-        "question": "usage",
-        "subQuestion": "html_functionality_features",
-        "path": "dataAPI.surveys.state_of_html.html2025.usage.html_functionality_features.freeform.allEditions.0.buckets.8.groupedBuckets.0.groupedBuckets.42.entity"
-      },
       {
         "name": "State of CSS 2025",
         "url": "https://2025.stateofcss.com/en-US/usage/#gamechanger_feature",
@@ -26898,7 +25790,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.27879203,
+      "percentageOfPageLoad": 0.27640656,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/83"
     }
   },
@@ -26925,7 +25817,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.01262857,
+      "percentageOfPageLoad": 0.01443809,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/166"
     }
   },
@@ -26978,7 +25870,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.37707208,
+      "percentageOfPageLoad": 0.3746241,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/87"
     }
   },
@@ -27044,7 +25936,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00126841,
+      "percentageOfPageLoad": 0.00119033,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/267"
     }
   },
@@ -27065,7 +25957,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0002072,
+      "percentageOfPageLoad": 0.00050968,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/332"
     }
   },
@@ -27079,7 +25971,7 @@
       }
     ],
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.0840423,
+      "percentageOfPageLoad": 0.08396915,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/393"
     }
   },
@@ -27115,7 +26007,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00042039,
+      "percentageOfPageLoad": 0.00042218,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/196"
     }
   },
@@ -27213,7 +26105,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.00107802,
+      "percentageOfPageLoad": 0.00210451,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/262"
     }
   },
@@ -27321,7 +26213,7 @@
       "votes": 0
     },
     "chrome-use-counters": {
-      "percentageOfPageLoad": 0.41795291,
+      "percentageOfPageLoad": 0.37473291,
       "url": "https://chromestatus.com/metrics/webfeature/timeline/popularity/291"
     }
   }
