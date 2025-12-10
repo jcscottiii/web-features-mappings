@@ -10506,5 +10506,13 @@
       "anchor": null,
       "url": "https://developer.mozilla.org/docs/Web/CSS/Reference/At-rules/@custom-media"
     }
+  ],
+  "toggleevent-source": [
+    {
+      "slug": "Web/API/ToggleEvent/source",
+      "title": "ToggleEvent: source property",
+      "anchor": null,
+      "url": "https://developer.mozilla.org/docs/Web/API/ToggleEvent/source"
+    }
   ]
 }
